@@ -42,11 +42,11 @@ We moeten hier heel snel wegwezen! Vanaf nu ben jij de Gele Leider. Jij bepaalt 
 
 ---
 
-### 🪶 ETAPPE 3: De Blauwe Veer
-*(Geef de blauwe stift en het veer symbool aan Vlinder 3).*
+### ☁️ ETAPPE 3: De Blauwe Wolk
+*(Geef de blauwe stift en het wolk symbool aan Vlinder 3).*
 
 **VOORLEZEN:**
-"Ik voel een zacht briesje... we hebben de blauwe kleur en de **Veer** gevonden! Deze is voor jou *(naam Vlinder 3)*. De Veer geeft je de kracht om te **Zweven**. Je weegt bijna niks meer! 
+"Ik voel een zacht briesje... we hebben de blauwe kleur en de **Wolk** gevonden! Deze is voor jou *(naam Vlinder 3)*. De Wolk geeft je de kracht om te **Zweven**. Je weegt bijna niks meer! 
 Jij bent nu de Blauwe Leider. We moeten naar de volgende plek zweven. Iedereen moet achter jou aan huppelen op zijn tenen en grote, lichte zweefsprongen maken. We zoeken vanaf nu de Blauwe Tijd-Bloemen!"
 
 * **Lopen naar het spel:** Zweef-sprongen en huppelen achter Vlinder 3. Blauwe bloemen zoeken.
@@ -108,7 +108,7 @@ Jullie zijn allemaal weer kleurrijk en sterk. Maar de Vlinderschat kunnen we all
 *(Leg het codevel neer met daarop de rekensommetjes, bijvoorbeeld:)*
 * Rood + ❤️ = _ (A)
 * Geel + ⚡ = _ (C)
-* Blauw + 🪶 = _ (H)
+* Blauw + ☁️ = _ (H)
 * Roze + 🌸 = _ (T)
 * Oranje + ☀️ = _ (E)
 * Groen + 🌙 = _ (R) 
@@ -134,5 +134,5 @@ Het kan gebeuren dat de groepsgrootte op het laatste moment verandert. Omdat de 
 
 **3. De Eindpuzzel 'Kid-Proof' maken (Belangrijk!)**
 Om te voorkomen dat de eindpuzzel in de knoop raakt bij meer of minder kinderen, kun je de letters beter niet op de vleugels van hun papieren vlinders schrijven.
-* **De oplossing:** Schrijf de letters van de eindcode op de achterkant van de *symbool-kaartjes* (het Hartje, de Bliksem, de Veer, etc.) die je tijdens de speurtocht verstopt bij de bloemen. 
+* **De oplossing:** Schrijf de letters van de eindcode op de achterkant van de *symbool-kaartjes* (het Hartje, de Bliksem, de Wolk, etc.) die je tijdens de speurtocht verstopt bij de bloemen. 
 * Het maakt dan niet uit of een kind 2 symbolen in zijn zak heeft, of dat een tweeling samen 1 symbool vasthoudt. Je hebt aan het eind altijd precies de 6 symbool-kaartjes. Ze leggen deze naast elkaar om de code te kraken, en ze hebben een prachtig ingekleurd vlindertje als souvenir!
