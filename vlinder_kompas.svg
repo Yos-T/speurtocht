@@ -11,45 +11,45 @@
   <path d="M 430 140 Q 480 60 550 90" fill="none" stroke="black" stroke-width="5" stroke-linecap="round"/>
   <circle cx="550" cy="90" r="10" fill="black"/>
 
-  <!-- VLEUGELS (Nu gemodelleerd naar een echte vlinder: grote boven/voorvleugel, bollende achtervleugel) -->
+  <!-- VLEUGELS (Iets compacter gemaakt zodat ze de cijfers 10, 2, 8 en 4 niet meer raken) -->
   <g fill="white" stroke="black" stroke-width="6" stroke-linejoin="round">
     
     <!-- LINKERVLEUGEL -->
     <path d="M 400 280 
-             C 250 150 100 200 80 320 
-             C 70 360 70 380 100 400 
-             C 90 440 100 460 140 480 
-             C 100 550 150 680 250 650 
-             C 300 630 350 580 400 520 Z" />
-    <path d="M 400 360 Q 250 350 100 400" fill="none" stroke-linecap="round"/>
-    <path d="M 400 440 Q 250 440 140 480" fill="none" stroke-linecap="round"/>
+             C 250 160 140 220 120 320 
+             C 110 360 110 380 130 400 
+             C 120 440 120 460 150 480 
+             C 140 550 190 680 260 650 
+             C 310 630 350 580 400 520 Z" />
+    <path d="M 400 360 Q 250 350 130 400" fill="none" stroke-linecap="round"/>
+    <path d="M 400 440 Q 250 440 150 480" fill="none" stroke-linecap="round"/>
 
     <!-- RECHTERVLEUGEL -->
     <path d="M 400 280 
-             C 550 150 700 200 720 320 
-             C 730 360 730 380 700 400 
-             C 710 440 700 460 660 480 
-             C 700 550 650 680 550 650 
-             C 500 630 450 580 400 520 Z" />
-    <path d="M 400 360 Q 550 350 700 400" fill="none" stroke-linecap="round"/>
-    <path d="M 400 440 Q 550 440 660 480" fill="none" stroke-linecap="round"/>
+             C 550 160 660 220 680 320 
+             C 690 360 690 380 670 400 
+             C 680 440 680 460 650 480 
+             C 660 550 610 680 540 650 
+             C 490 630 450 580 400 520 Z" />
+    <path d="M 400 360 Q 550 350 670 400" fill="none" stroke-linecap="round"/>
+    <path d="M 400 440 Q 550 440 650 480" fill="none" stroke-linecap="round"/>
     
   </g>
 
   <!-- INVUL-RONDJES VOOR DE LETTERS -->
   <g fill="white" stroke="black" stroke-width="3" stroke-dasharray="4,4">
     <!-- Links -->
-    <circle cx="220" cy="280" r="28"/>
-    <circle cx="200" cy="410" r="28"/>
-    <circle cx="260" cy="560" r="28"/>
+    <circle cx="240" cy="280" r="28"/>
+    <circle cx="220" cy="410" r="28"/>
+    <circle cx="270" cy="560" r="28"/>
     
     <!-- Rechts -->
-    <circle cx="580" cy="280" r="28"/>
-    <circle cx="600" cy="410" r="28"/>
-    <circle cx="540" cy="560" r="28"/>
+    <circle cx="560" cy="280" r="28"/>
+    <circle cx="580" cy="410" r="28"/>
+    <circle cx="530" cy="560" r="28"/>
   </g>
 
-  <!-- KLOK GETALLEN (Geheel vrij op de voorgrond) -->
+  <!-- KLOK GETALLEN -->
   <g font-family="sans-serif" text-anchor="middle" fill="black">
     <text x="400" y="80" font-size="40" font-weight="bold">12</text>
     <text x="565" y="125" font-size="30">1</text>
