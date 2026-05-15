@@ -14,8 +14,8 @@
     <circle cx="250" cy="260" r="120" fill="none" stroke="#999" stroke-width="3" stroke-dasharray="10,10"/>
     <text x="250" y="410" font-family="sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="crimson">Rood (Hartje)</text>
     
-    <!-- Symbool (Gecentreerd) -->
-    <path d="M 250 325 C 350 265 350 185 250 225 C 150 185 150 265 250 325 Z" fill="crimson" stroke="darkred" stroke-width="4"/>
+    <!-- Symbool (Verticaal iets uitgerekt voor een strakker hart) -->
+    <path d="M 250 340 C 360 270 360 160 250 220 C 140 160 140 270 250 340 Z" fill="crimson" stroke="darkred" stroke-width="4"/>
   </g>
 
   <!-- ======================== -->
@@ -24,10 +24,10 @@
   <g>
     <!-- Kniprand -->
     <circle cx="550" cy="260" r="120" fill="none" stroke="#999" stroke-width="3" stroke-dasharray="10,10"/>
-    <text x="550" y="410" font-family="sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="orange">Geel (Bliksem)</text>
+    <text x="550" y="410" font-family="sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#DAA520">Geel (Bliksem)</text>
     
-    <!-- Symbool -->
-    <polygon points="560,160 500,270 550,270 530,360 610,240 550,240" fill="gold" stroke="darkorange" stroke-width="5" stroke-linejoin="round"/>
+    <!-- Symbool (Nu felgeel/goudkleurig voor meer contrast met de zon) -->
+    <polygon points="560,160 500,270 550,270 530,360 610,240 550,240" fill="#FFE600" stroke="#DAA520" stroke-width="5" stroke-linejoin="round"/>
   </g>
 
   <!-- ======================== -->
@@ -50,14 +50,12 @@
     <circle cx="550" cy="620" r="120" fill="none" stroke="#999" stroke-width="3" stroke-dasharray="10,10"/>
     <text x="550" y="770" font-family="sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="hotpink">Roze (Bloem)</text>
     
-    <!-- Symbool (Een perfect aaneengesloten geheel) -->
-    <!-- Buitenste blaadjes versmolten door weglaten van randen -->
+    <!-- Symbool -->
     <circle cx="550" cy="575" r="35" fill="hotpink"/>
     <circle cx="593" cy="606" r="35" fill="hotpink"/>
     <circle cx="576" cy="656" r="35" fill="hotpink"/>
     <circle cx="524" cy="656" r="35" fill="hotpink"/>
     <circle cx="507" cy="606" r="35" fill="hotpink"/>
-    <!-- Hart van de bloem -->
     <circle cx="550" cy="620" r="30" fill="gold" stroke="orange" stroke-width="3"/>
   </g>
 
@@ -67,12 +65,11 @@
   <g>
     <!-- Kniprand -->
     <circle cx="250" cy="980" r="120" fill="none" stroke="#999" stroke-width="3" stroke-dasharray="10,10"/>
-    <text x="250" y="1130" font-family="sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="darkorange">Oranje (Zon)</text>
+    <text x="250" y="1130" font-family="sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#FF4500">Oranje (Zon)</text>
     
-    <!-- Symbool (Zaagtand zon helemaal binnen de cirkel) -->
-    <!-- 12-puntige ster polygon voor de zaagtanden -->
-    <polygon points="250,900 265.5,922.1 290,910.7 292.4,937.6 319.3,940 307.9,964.5 330,980 307.9,995.5 319.3,1020 292.4,1022.4 290,1049.3 265.5,1037.9 250,1060 234.5,1037.9 210,1049.3 207.6,1022.4 180.7,1020 192.1,995.5 170,980 192.1,964.5 180.7,940 207.6,937.6 210,910.7 234.5,922.1" fill="gold" stroke="darkorange" stroke-width="5" stroke-linejoin="round"/>
-    <circle cx="250" cy="980" r="45" fill="gold"/>
+    <!-- Symbool (Nu echt donkeroranje/roodoranje voor contrast met de bliksem) -->
+    <polygon points="250,900 265.5,922.1 290,910.7 292.4,937.6 319.3,940 307.9,964.5 330,980 307.9,995.5 319.3,1020 292.4,1022.4 290,1049.3 265.5,1037.9 250,1060 234.5,1037.9 210,1049.3 207.6,1022.4 180.7,1020 192.1,995.5 170,980 192.1,964.5 180.7,940 207.6,937.6 210,910.7 234.5,922.1" fill="#FF8C00" stroke="#FF4500" stroke-width="5" stroke-linejoin="round"/>
+    <circle cx="250" cy="980" r="45" fill="#FF8C00"/>
   </g>
 
   <!-- ======================== -->
@@ -83,8 +80,8 @@
     <circle cx="550" cy="980" r="120" fill="none" stroke="#999" stroke-width="3" stroke-dasharray="10,10"/>
     <text x="550" y="1130" font-family="sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="limegreen">Groen (Maan)</text>
     
-    <!-- Symbool (Een massieve, mooi bolle halve maan) -->
-    <path d="M 605 890 C 475 890 475 1070 605 1070 C 545 1020 545 940 605 890 Z" fill="limegreen" stroke="forestgreen" stroke-width="4"/>
+    <!-- Symbool (Visueel naar links geschoven voor de perfecte balans) -->
+    <path d="M 590 890 C 460 890 460 1070 590 1070 C 530 1020 530 940 590 890 Z" fill="limegreen" stroke="forestgreen" stroke-width="4"/>
   </g>
 
 </svg>
