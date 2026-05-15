@@ -1,16 +1,16 @@
-# Speurtocht: De Verdwenen Kleuren van het Vlinderbos
+# Speurtocht: De Verdwenen Kleuren van het Vlinderpark
 
-### 🦋 DE START: Het Vlinderbos
+### 🦋 DE START: Het Vlinderpark
 *(Geef elk kind een wit vlindertje en een nep-klokje)*
 
 **VOORLEZEN:**
-"Lang geleden was het Vlinderbos het mooiste bos van het land. Overal vlogen prachtige vlinders met schitterende kleuren en magische krachten.
-Maar op een dag kwam er een dikke grijze mist over het bos. Alle kleuren verdwenen… En ook de magische krachten van de vlinders raakten kwijt.
-Alleen zes jonge witte vlinders kunnen het bos nog redden.
+"Lang geleden was het Vlinderpark het mooiste stukje natuur van onze wijk. Overal vlogen prachtige vlinders met schitterende kleuren en magische krachten.
+Maar toen kwamen de grote bouwmachines om de nieuwe huizen te bouwen! Er waaide een enorme, dikke wolk van bouwstof over het park. Alle kleuren van de vlinders raakten bedolven onder een laagje grijs stof… En ook hun magische krachten raakten kwijt.
+Alleen zes jonge witte vlinders kunnen het park nog redden.
 Die zes vlinders… zijn jullie. 
 
-Omdat de mist zo dik is, kunnen we de weg niet zien. Maar gelukkig zitten de kleuren veilig verstopt in onzichtbare Tijd-Bloemen! Om deze bloemen te vinden, hebben jullie deze magische vlinder-klokjes gekregen. 
-Straks vinden we gekleurde bloemen in de bomen met een tijd erop. Als je je klokje precies op die tijd zet, wijst de vlinder op je klok je de weg door de mist! Zijn jullie klaar om jullie kleuren terug te verdienen?"
+Omdat de stofwolk zo dik is, kunnen we de weg niet goed meer zien. Maar gelukkig zitten de kleuren veilig verstopt in onzichtbare Tijd-Bloemen! Om deze bloemen te vinden, hebben jullie deze magische vlinder-klokjes gekregen. 
+Straks vinden we gekleurde bloemen in de bomen of bij de bouwhekken met een tijd erop. Als je je klokje precies op die tijd zet, wijst de vlinder op je klok je de weg door het stof! Zijn jullie klaar om jullie kleuren terug te verdienen?"
 
 ---
 
@@ -18,12 +18,12 @@ Straks vinden we gekleurde bloemen in de bomen met een tijd erop. Als je je klok
 *(Je bent net gestart. Je geeft de eerste kleur, stift en het symbool aan Vlinder 1).*
 
 **VOORLEZEN:**
-"Kijk! De mist trekt hier een beetje op. We hebben de eerste kracht gevonden! Dit is de rode kleur en het symbool van het **Hartje**. Deze hoort bij jou *(naam Vlinder 1)*. Het Hartje geeft je de kracht van **Dapperheid**. 
-Omdat jij nu zo dapper bent, ben jij onze Rode Leider. Wij vinden het stiekem nog een beetje eng in de mist, dus jij moet dapper voorop lopen en wij lopen precies in een keurig rijtje achter jou aan. We zoeken vanaf nu naar de Rode Tijd-Bloemen om de weg te vinden!"
+"Kijk! Het bouwstof trekt hier een beetje op. We hebben de eerste kracht gevonden! Dit is de rode kleur en het symbool van het **Hartje**. Deze hoort bij jou *(naam Vlinder 1)*. Het Hartje geeft je de kracht van **Dapperheid**. 
+Omdat jij nu zo dapper bent, ben jij onze Rode Leider. Wij vinden het stiekem nog een beetje eng in al dat stof, dus jij moet dapper voorop lopen en wij lopen precies in een keurig rijtje achter jou aan. We zoeken vanaf nu naar de Rode Tijd-Bloemen om de weg te vinden!"
 
 * **Lopen naar het spel:** Vlinder 1 loopt statig voorop, de rest volgt in een strakke rij. Ze zoeken naar rode bloemen met tijden erop en stellen hun klokjes in.
 * **Aankomst bij Spel 1 (Verstoppertje):** 
-**VOORLEZEN:** "We zijn bij een open plek! We moeten oefenen in onszelf verstoppen voor de hongerige vogels. Omdat de Rode Leider zo dapper is, is hij/zij de enige die in de mist durft te zoeken. Onze Rode Leider is de zoeker!"
+**VOORLEZEN:** "We zijn bij een open plek! We moeten oefenen in onszelf verstoppen voor de hongerige vogels. Omdat de Rode Leider zo dapper is, is hij/zij de enige die in de dikke laag stof durft te zoeken. Onze Rode Leider is de zoeker!"
 *(Na het spel mag Vlinder 1 zijn/haar vlinder rood inkleuren en de letters op de vleugel bekijken).*
 
 ---
@@ -32,7 +32,7 @@ Omdat jij nu zo dapper bent, ben jij onze Rode Leider. Wij vinden het stiekem no
 *(Geef de gele stift en het bliksem symbool aan Vlinder 2).*
 
 **VOORLEZEN:**
-"Wat flitst daar door de bomen? Het is de gele kleur en de **Bliksem**! Deze is voor jou *(naam Vlinder 2)*. De Bliksem geeft je de kracht van **Supersnelheid**. 
+"Wat flitst daar door het park? Het is de gele kleur en de **Bliksem**! Deze is voor jou *(naam Vlinder 2)*. De Bliksem geeft je de kracht van **Supersnelheid**. 
 We moeten hier heel snel wegwezen! Vanaf nu ben jij de Gele Leider. Jij bepaalt het snelle tempo. Iedereen moet achter jou aan rennen of heel snel snelwandelen. Let goed op, want we zoeken nu naar de Gele Tijd-Bloemen!"
 
 * **Lopen naar het spel:** Snelwandelen/rennen achter Vlinder 2 aan. Ze zoeken gele bloemen en zetten de klokjes gelijk.
@@ -51,7 +51,7 @@ Jij bent nu de Blauwe Leider. We moeten naar de volgende plek zweven. Iedereen m
 
 * **Lopen naar het spel:** Zweef-sprongen en huppelen achter Vlinder 3. Blauwe bloemen zoeken.
 * **Aankomst bij Spel 3 (Matje springen):** 
-**VOORLEZEN:** "Oh nee, de grond is hier veranderd in gevaarlijke, kleverige modder! Gelukkig is onze Blauwe Leider de meester van het zweven. Jij mag de stenen (matjes) uitdelen en als eerste de gevaarlijke oversteek maken om ons te laten zien hoe het moet."
+**VOORLEZEN:** "Oh nee, de grote bouwmachines hebben de grond hier veranderd in gevaarlijke, kleverige modder! Gelukkig is onze Blauwe Leider de meester van het zweven. Jij mag de stenen (matjes) uitdelen en als eerste de gevaarlijke oversteek maken om ons te laten zien hoe het moet."
 *(Na het spel kleurt Vlinder 3 in).*
 
 ---
@@ -61,7 +61,7 @@ Jij bent nu de Blauwe Leider. We moeten naar de volgende plek zweven. Iedereen m
 
 **VOORLEZEN:**
 "Mmmm, ruiken jullie dat? Het is de roze kleur en de **Bloem**! Deze hoort bij jou *(naam Vlinder 4)*. Dit geeft je de kracht van de **Magische Speurneus**.
-Jij bent nu de Roze Leider. Wij kunnen de weg niet meer zien, maar jij kunt de volgende bloemen ruiken! Iedereen moet als een snuffelend hondje (of zoemend bijtje) achter de leider aan lopen. We speuren naar de Roze Tijd-Bloemen!"
+Jij bent nu de Roze Leider. Wij kunnen door al dat bouwstof de weg niet meer zien, maar jij kunt de volgende bloemen ruiken! Iedereen moet als een snuffelend hondje (of zoemend bijtje) achter de leider aan lopen. We speuren naar de Roze Tijd-Bloemen!"
 
 * **Lopen naar het spel:** Snuffelend/zoemend achter Vlinder 4. Roze bloemen zoeken.
 * **Aankomst bij Spel 4 (Snoep happen):** 
@@ -74,7 +74,7 @@ Jij bent nu de Roze Leider. Wij kunnen de weg niet meer zien, maar jij kunt de v
 *(Geef de oranje stift en het zon symbool aan Vlinder 5).*
 
 **VOORLEZEN:**
-"Het wordt hier opeens lekker warm. We hebben de oranje kleur en de **Zon** gevonden! Dit is jouw kracht *(naam Vlinder 5)*. De Zon geeft je **Oerkracht**. Je bent ineens supersterk!
+"Het wordt hier opeens lekker warm. We hebben de oranje kleur en de **Zon** gevonden! Dit is jouw kracht *(naam Vlinder 5)*. De Zon geeft je **Oerkracht**. Je bent ineens supersterk, net als de graafmachines!
 Jij bent nu de Oranje Leider. Laat je spierballen maar zien! Iedereen moet achter de leider aan lopen door met zware reuzenstappen op de grond te stampen. We zoeken de Oranje Tijd-Bloemen!"
 
 * **Lopen naar het spel:** Zware, stampende reuzenstappen. Oranje bloemen zoeken.
@@ -89,11 +89,11 @@ Jij bent nu de Oranje Leider. Laat je spierballen maar zien! Iedereen moet achte
 
 **VOORLEZEN:**
 "We zijn bijna bij het einde, ik voel het! Hier is de groene kleur en de **Maan**. Jouw beurt *(naam Vlinder 6)*. De Maan geeft je de kracht van **Absolute Stilte**.
-Jij bent onze laatste, Groene Leider. De schat is vlakbij, maar we mogen niet gehoord worden door een reusachtige, slapende spin. Iedereen moet muisstil op zijn tenen achter jou aan sluipen. We zoeken de laatste Groene Tijd-Bloemen!"
+Jij bent onze laatste, Groene Leider. De schat is vlakbij, maar we mogen niet gehoord worden door een reusachtige, slapende spin in de bosjes. Iedereen moet muisstil op zijn tenen achter jou aan sluipen. We zoeken de laatste Groene Tijd-Bloemen!"
 
 * **Lopen naar het spel:** Extreem stil en stiekem sluipen. Groene bloemen zoeken.
 * **Aankomst bij Spel 6 (Annemaria Koekoek):** 
-**VOORLEZEN:** "We moeten de magische spreuk oefenen om stil te staan. Omdat onze Groene Leider alles hoort en de meester van de stilte is, mag hij/zij aan de muur staan en roepen: Annemaria Koekoek! Wij proberen stiekem dichterbij te komen."
+**VOORLEZEN:** "We moeten de magische spreuk oefenen om stil te staan. Omdat onze Groene Leider alles hoort en de meester van de stilte is, mag hij/zij aan de muur (of een groot bouwhek) staan en roepen: Annemaria Koekoek! Wij proberen stiekem dichterbij te komen."
 *(Na het spel kleurt Vlinder 6 in).*
 
 ---
@@ -101,7 +101,7 @@ Jij bent onze laatste, Groene Leider. De schat is vlakbij, maar we mogen niet ge
 ### 🧩 DE FINALE: De Schat Ontcijferen
 
 **VOORLEZEN:**
-"Jongens, we hebben het gered! De mist is opgetrokken. Kijk eens naar jullie vlinders: ze hebben allemaal hun prachtige kleuren terug, hun speciale kracht, én... er staan magische letters op jullie vleugels! 
+"Jongens, we hebben het gered! De wolk van bouwstof is eindelijk gaan liggen. Kijk eens naar jullie vlinders: ze hebben allemaal hun prachtige kleuren terug, hun speciale kracht, én... er staan magische letters op jullie vleugels! 
 
 Jullie zijn allemaal weer kleurrijk en sterk. Maar de Vlinderschat kunnen we alleen vinden als we samenwerken."
 
@@ -130,7 +130,7 @@ Het kan gebeuren dat de groepsgrootte op het laatste moment verandert. Omdat de 
 **2. Als er MEER kinderen zijn (bijv. 7 of 8)**
 * **Vlinder-Tweelingen:** Wijs aan het begin een "Vlinder-Tweeling" aan. Zij delen samen één kleur (bijv. de Gele Bliksem) en zijn *samen* de leider bij het tikkertje. Ze krijgen allebei een wit vlindertje om in te kleuren, maar hebben dezelfde kracht.
 * **Extra etappe toevoegen:** Je kunt makkelijk nog een kleur en etappe toevoegen door onderweg een extra spelletje te doen.
-  * *Bijv. Paarse Vlinder + Symbool: Schildpad 🐢. Kracht: Kruipen/Schild. Spel: Tijgeren onder een denkbeeldig spinnenweb door.*
+  * *Bijv. Paarse Vlinder + Symbool: Schildpad 🐢. Kracht: Kruipen/Schild. Spel: Tijgeren onder een denkbeeldig spinnenweb (of bouwhek) door.*
 
 **3. De Eindpuzzel 'Kid-Proof' maken (Belangrijk!)**
 Om te voorkomen dat de eindpuzzel in de knoop raakt bij meer of minder kinderen, kun je de letters beter niet op de vleugels van hun papieren vlinders schrijven.
