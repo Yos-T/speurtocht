@@ -23,7 +23,7 @@ Omdat jij nu zo dapper bent, ben jij onze Rode Leider. Wij vinden het stiekem no
 
 * **Lopen naar het spel:** Vlinder 1 loopt statig voorop, de rest volgt in een strakke rij. Ze zoeken naar rode bloemen met tijden erop en stellen hun klokjes in.
 * **Aankomst bij Spel 1 (Verstoppertje):** 
-**VOORLEZEN:** "We zijn bij een open plek! We moeten oefenen in onszelf verstoppen voor de mist-monsters. Omdat de Rode Leider zo dapper is, is hij/zij de enige die in de mist durft te zoeken. Onze Rode Leider is de zoeker!"
+**VOORLEZEN:** "We zijn bij een open plek! We moeten oefenen in onszelf verstoppen voor de hongerige vogels. Omdat de Rode Leider zo dapper is, is hij/zij de enige die in de mist durft te zoeken. Onze Rode Leider is de zoeker!"
 *(Na het spel mag Vlinder 1 zijn/haar vlinder rood inkleuren en de letters op de vleugel bekijken).*
 
 ---
@@ -89,7 +89,7 @@ Jij bent nu de Oranje Leider. Laat je spierballen maar zien! Iedereen moet achte
 
 **VOORLEZEN:**
 "We zijn bijna bij het einde, ik voel het! Hier is de groene kleur en de **Maan**. Jouw beurt *(naam Vlinder 6)*. De Maan geeft je de kracht van **Absolute Stilte**.
-Jij bent onze laatste, Groene Leider. De schat is vlakbij, maar we mogen niet gehoord worden door het mist-monster. Iedereen moet muisstil op zijn tenen achter jou aan sluipen. We zoeken de laatste Groene Tijd-Bloemen!"
+Jij bent onze laatste, Groene Leider. De schat is vlakbij, maar we mogen niet gehoord worden door een reusachtige, slapende spin. Iedereen moet muisstil op zijn tenen achter jou aan sluipen. We zoeken de laatste Groene Tijd-Bloemen!"
 
 * **Lopen naar het spel:** Extreem stil en stiekem sluipen. Groene bloemen zoeken.
 * **Aankomst bij Spel 6 (Annemaria Koekoek):** 
