@@ -5,7 +5,41 @@
   <!-- Klok buitenring (hulplijn voor de wijzers) -->
   <circle cx="400" cy="400" r="330" fill="none" stroke="#ccc" stroke-width="3" stroke-dasharray="12,12"/>
 
-  <!-- Klok getallen rondom de vlinder (Buiten de vleugels) -->
+  <!-- Voelsprieten -->
+  <path d="M 370 140 Q 320 60 250 90" fill="none" stroke="black" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="250" cy="90" r="10" fill="black"/>
+  <path d="M 430 140 Q 480 60 550 90" fill="none" stroke="black" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="550" cy="90" r="10" fill="black"/>
+
+  <!-- VLEUGELS (Iets smaller gemaakt zodat ze niet buiten de klok vallen) -->
+  <g fill="white" stroke="black" stroke-width="6" stroke-linejoin="round">
+    
+    <!-- LINKERVLEUGEL -->
+    <path d="M 400 280 C 180 150 100 300 140 390 C 80 430 80 500 140 540 C 120 650 220 680 400 520 L 400 280 Z" />
+    <path d="M 400 370 Q 250 370 140 390" fill="none" stroke-linecap="round"/>
+    <path d="M 400 450 Q 250 480 140 540" fill="none" stroke-linecap="round"/>
+
+    <!-- RECHTERVLEUGEL -->
+    <path d="M 400 280 C 620 150 700 300 660 390 C 720 430 720 500 660 540 C 680 650 580 680 400 520 L 400 280 Z" />
+    <path d="M 400 370 Q 550 370 660 390" fill="none" stroke-linecap="round"/>
+    <path d="M 400 450 Q 550 480 660 540" fill="none" stroke-linecap="round"/>
+    
+  </g>
+
+  <!-- INVUL-RONDJES VOOR DE LETTERS (Iets naar binnen en omhoog geschoven) -->
+  <g fill="white" stroke="black" stroke-width="3" stroke-dasharray="4,4">
+    <!-- Links -->
+    <circle cx="220" cy="300" r="28"/>
+    <circle cx="190" cy="460" r="28"/>
+    <circle cx="260" cy="570" r="28"/>
+    
+    <!-- Rechts -->
+    <circle cx="580" cy="300" r="28"/>
+    <circle cx="610" cy="460" r="28"/>
+    <circle cx="540" cy="570" r="28"/>
+  </g>
+
+  <!-- KLOK GETALLEN (Verplaatst naar hieronder, zodat ze ALTIJD op de voorgrond staan en niet weggestopt worden) -->
   <g font-family="sans-serif" text-anchor="middle" fill="black">
     <text x="400" y="80" font-size="40" font-weight="bold">12</text>
     <text x="565" y="125" font-size="30">1</text>
@@ -21,52 +55,12 @@
     <text x="235" y="125" font-size="30">11</text>
   </g>
 
-  <!-- Voelsprieten -->
-  <path d="M 370 140 Q 320 60 250 90" fill="none" stroke="black" stroke-width="5" stroke-linecap="round"/>
-  <circle cx="250" cy="90" r="10" fill="black"/>
-  <path d="M 430 140 Q 480 60 550 90" fill="none" stroke="black" stroke-width="5" stroke-linecap="round"/>
-  <circle cx="550" cy="90" r="10" fill="black"/>
-
-  <!-- VLEUGELS (Beginnen precies in het midden (x=400) om 100% zeker te overlappen met het lijfje) -->
-  <g fill="white" stroke="black" stroke-width="6" stroke-linejoin="round">
-    
-    <!-- LINKERVLEUGEL -->
-    <!-- 3 Bollingen die precies inhammen waar de binnenlijnen raken -->
-    <path d="M 400 280 C 150 150 50 300 100 390 C 40 430 40 500 120 540 C 80 650 200 700 400 520 L 400 280 Z" />
-    <!-- Verdelingslijnen (nerven) die naar de inhammen lopen -->
-    <path d="M 400 370 Q 250 370 100 390" fill="none" stroke-linecap="round"/>
-    <path d="M 400 450 Q 250 480 120 540" fill="none" stroke-linecap="round"/>
-
-    <!-- RECHTERVLEUGEL -->
-    <!-- 3 Bollingen die precies inhammen waar de binnenlijnen raken -->
-    <path d="M 400 280 C 650 150 750 300 700 390 C 760 430 760 500 680 540 C 720 650 600 700 400 520 L 400 280 Z" />
-    <!-- Verdelingslijnen (nerven) die naar de inhammen lopen -->
-    <path d="M 400 370 Q 550 370 700 390" fill="none" stroke-linecap="round"/>
-    <path d="M 400 450 Q 550 480 680 540" fill="none" stroke-linecap="round"/>
-    
-  </g>
-
-  <!-- INVUL-RONDJES VOOR DE LETTERS -->
-  <!-- Stippellijn-cirkeltjes in elk vlak -->
-  <g fill="white" stroke="black" stroke-width="3" stroke-dasharray="4,4">
-    <!-- Links -->
-    <circle cx="200" cy="300" r="28"/>
-    <circle cx="170" cy="460" r="28"/>
-    <circle cx="240" cy="600" r="28"/>
-    
-    <!-- Rechts -->
-    <circle cx="600" cy="300" r="28"/>
-    <circle cx="630" cy="460" r="28"/>
-    <circle cx="560" cy="600" r="28"/>
-  </g>
-
-  <!-- LIJFJE (Overlapt het startpunt van de vleugels en nerven perfect) -->
+  <!-- LIJFJE -->
   <ellipse cx="400" cy="400" rx="55" ry="140" fill="white" stroke="black" stroke-width="6"/>
-  
   <!-- Gat voor de splitpen in het midden -->
   <circle cx="400" cy="400" r="8" fill="white" stroke="black" stroke-width="4"/>
 
-  <!-- KOP / SYMBOOL PLEK (Rust op het lijfje) -->
+  <!-- KOP / SYMBOOL PLEK -->
   <!-- Stippellijn cirkel -->
   <circle cx="400" cy="200" r="60" fill="white" stroke="black" stroke-width="4" stroke-dasharray="8,6"/>
   <!-- Tekst in de kop -->
