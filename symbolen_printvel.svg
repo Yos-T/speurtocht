@@ -56,7 +56,7 @@
     <circle cx="576" cy="656" r="35" fill="hotpink"/>
     <circle cx="524" cy="656" r="35" fill="hotpink"/>
     <circle cx="507" cy="606" r="35" fill="hotpink"/>
-    <circle cx="550" cy="620" r="30" fill="gold" stroke="orange" stroke-width="3"/>
+    <circle cx="550" cy="620" r="30" fill="darkorchid" stroke="purple" stroke-width="3"/>
   </g>
 
   <!-- ======================== -->
