@@ -3,10 +3,10 @@
   <rect width="100%" height="100%" fill="white"/>
 
   <!-- TITEL -->
-  <text x="1050" y="80" font-family="sans-serif" font-size="48" font-weight="bold" text-anchor="middle" fill="black">De Vlinder-Kompassen &amp; Geheime Symbolen</text>
-  <text x="1050" y="120" font-family="sans-serif" font-size="24" text-anchor="middle" fill="gray">Knip de vlinders en de kleine symbolen uit. De symbolen passen precies op het hoofd van de vlinders!</text>
+  <text x="1050" y="60" font-family="sans-serif" font-size="44" font-weight="bold" text-anchor="middle" fill="black">De Vlinder-Kompassen &amp; Geheime Symbolen</text>
+  <text x="1050" y="100" font-family="sans-serif" font-size="24" text-anchor="middle" fill="gray">Knip de vlinders en de kleine symbolen uit. De symbolen passen precies op de kop van de vlinders!</text>
 
-  <!-- DEFINITIES (Het ontwerp van de vlinder) -->
+  <!-- DEFINITIES (Het basisontwerp van de vlinder) -->
   <defs>
     <g id="vlinder">
       <!-- Klok buitenring -->
@@ -20,12 +20,10 @@
 
       <!-- VLEUGELS -->
       <g fill="white" stroke="black" stroke-width="6" stroke-linejoin="round">
-        <!-- LINKERVLEUGEL -->
         <path d="M 400 280 C 250 160 140 220 120 320 C 110 360 110 380 130 400 C 120 440 120 460 150 480 C 140 550 190 680 260 650 C 310 630 350 580 400 520 Z" />
         <path d="M 400 360 Q 250 350 130 400" fill="none" stroke-linecap="round"/>
         <path d="M 400 440 Q 250 440 150 480" fill="none" stroke-linecap="round"/>
 
-        <!-- RECHTERVLEUGEL -->
         <path d="M 400 280 C 550 160 660 220 680 320 C 690 360 690 380 670 400 C 680 440 680 460 650 480 C 660 550 610 680 540 650 C 490 630 450 580 400 520 Z" />
         <path d="M 400 360 Q 550 350 670 400" fill="none" stroke-linecap="round"/>
         <path d="M 400 440 Q 550 440 650 480" fill="none" stroke-linecap="round"/>
@@ -59,7 +57,6 @@
 
       <!-- LIJFJE -->
       <ellipse cx="400" cy="400" rx="55" ry="140" fill="white" stroke="black" stroke-width="6"/>
-      <!-- Gat voor de splitpen -->
       <circle cx="400" cy="400" r="8" fill="white" stroke="black" stroke-width="4"/>
 
       <!-- KOP / SYMBOOL PLEK -->
@@ -69,79 +66,80 @@
     </g>
   </defs>
 
-  <!-- ======================== -->
-  <!-- 6 VLINDER-KOMPASSEN      -->
-  <!-- ======================== -->
-  <use href="#vlinder" x="150" y="150"/>
-  <use href="#vlinder" x="1150" y="150"/>
+  <!-- ========================================================================= -->
+  <!-- OPTIMALISATIE: MAXIMALE GROOTTE (115% geschaald) EN SLIM GEBRUIK VAN GATEN -->
+  <!-- ========================================================================= -->
+
+  <!-- 1. Vlinder + Hartje -->
+  <g transform="translate(60, 130) scale(1.15)">
+    <use href="#vlinder"/>
+    <!-- Symbool geplaatst in de lege ruimte linksboven van het vierkant -->
+    <g transform="translate(100, 100)">
+      <circle r="60" fill="none" stroke="#999" stroke-width="3" stroke-dasharray="5,5"/>
+      <g transform="scale(0.5) translate(-250, -260)">
+        <path d="M 250 340 C 360 270 360 160 250 220 C 140 160 140 270 250 340 Z" fill="crimson" stroke="darkred" stroke-width="4"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- 2. Vlinder + Bliksem -->
+  <g transform="translate(1120, 130) scale(1.15)">
+    <use href="#vlinder"/>
+    <g transform="translate(100, 100)">
+      <circle r="60" fill="none" stroke="#999" stroke-width="3" stroke-dasharray="5,5"/>
+      <g transform="scale(0.5) translate(-550, -260)">
+        <polygon points="560,160 500,270 550,270 530,360 610,240 550,240" fill="#FFE600" stroke="#DAA520" stroke-width="5" stroke-linejoin="round"/>
+      </g>
+    </g>
+  </g>
   
-  <use href="#vlinder" x="150" y="1000"/>
-  <use href="#vlinder" x="1150" y="1000"/>
+  <!-- 3. Vlinder + Wolk -->
+  <g transform="translate(60, 1080) scale(1.15)">
+    <use href="#vlinder"/>
+    <g transform="translate(100, 100)">
+      <circle r="60" fill="none" stroke="#999" stroke-width="3" stroke-dasharray="5,5"/>
+      <g transform="scale(0.5) translate(-250, -620)">
+        <path d="M 170 660 C 130 660 130 580 180 580 C 190 510 300 510 320 570 C 370 560 380 650 330 660 Z" fill="skyblue" stroke="dodgerblue" stroke-width="5" stroke-linejoin="round"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- 4. Vlinder + Bloem -->
+  <g transform="translate(1120, 1080) scale(1.15)">
+    <use href="#vlinder"/>
+    <g transform="translate(100, 100)">
+      <circle r="60" fill="none" stroke="#999" stroke-width="3" stroke-dasharray="5,5"/>
+      <g transform="scale(0.5) translate(-550, -620)">
+        <circle cx="550" cy="575" r="35" fill="hotpink"/>
+        <circle cx="593" cy="606" r="35" fill="hotpink"/>
+        <circle cx="576" cy="656" r="35" fill="hotpink"/>
+        <circle cx="524" cy="656" r="35" fill="hotpink"/>
+        <circle cx="507" cy="606" r="35" fill="hotpink"/>
+        <circle cx="550" cy="620" r="30" fill="darkorchid" stroke="purple" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
   
-  <use href="#vlinder" x="150" y="1850"/>
-  <use href="#vlinder" x="1150" y="1850"/>
-
-  <!-- ======================== -->
-  <!-- 6 KLEINE SYMBOLEN        -->
-  <!-- ======================== -->
-  
-  <!-- 1. Hartje -->
-  <g transform="translate(250, 2800)">
-    <circle r="60" fill="none" stroke="#999" stroke-width="3" stroke-dasharray="5,5"/>
-    <text y="90" font-family="sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="crimson">Rood</text>
-    <g transform="scale(0.5) translate(-250, -260)">
-      <path d="M 250 340 C 360 270 360 160 250 220 C 140 160 140 270 250 340 Z" fill="crimson" stroke="darkred" stroke-width="4"/>
+  <!-- 5. Vlinder + Zon -->
+  <g transform="translate(60, 2030) scale(1.15)">
+    <use href="#vlinder"/>
+    <g transform="translate(100, 100)">
+      <circle r="60" fill="none" stroke="#999" stroke-width="3" stroke-dasharray="5,5"/>
+      <g transform="scale(0.5) translate(-250, -980)">
+        <polygon points="250,900 265.5,922.1 290,910.7 292.4,937.6 319.3,940 307.9,964.5 330,980 307.9,995.5 319.3,1020 292.4,1022.4 290,1049.3 265.5,1037.9 250,1060 234.5,1037.9 210,1049.3 207.6,1022.4 180.7,1020 192.1,995.5 170,980 192.1,964.5 180.7,940 207.6,937.6 210,910.7 234.5,922.1" fill="#FF8C00" stroke="#FF4500" stroke-width="5" stroke-linejoin="round"/>
+        <circle cx="250" cy="980" r="45" fill="#FF8C00"/>
+      </g>
     </g>
   </g>
 
-  <!-- 2. Bliksem -->
-  <g transform="translate(570, 2800)">
-    <circle r="60" fill="none" stroke="#999" stroke-width="3" stroke-dasharray="5,5"/>
-    <text y="90" font-family="sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#DAA520">Geel</text>
-    <g transform="scale(0.5) translate(-550, -260)">
-      <polygon points="560,160 500,270 550,270 530,360 610,240 550,240" fill="#FFE600" stroke="#DAA520" stroke-width="5" stroke-linejoin="round"/>
-    </g>
-  </g>
-
-  <!-- 3. Wolk -->
-  <g transform="translate(890, 2800)">
-    <circle r="60" fill="none" stroke="#999" stroke-width="3" stroke-dasharray="5,5"/>
-    <text y="90" font-family="sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="dodgerblue">Blauw</text>
-    <g transform="scale(0.5) translate(-250, -620)">
-      <path d="M 170 660 C 130 660 130 580 180 580 C 190 510 300 510 320 570 C 370 560 380 650 330 660 Z" fill="skyblue" stroke="dodgerblue" stroke-width="5" stroke-linejoin="round"/>
-    </g>
-  </g>
-
-  <!-- 4. Bloem -->
-  <g transform="translate(1210, 2800)">
-    <circle r="60" fill="none" stroke="#999" stroke-width="3" stroke-dasharray="5,5"/>
-    <text y="90" font-family="sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="hotpink">Roze</text>
-    <g transform="scale(0.5) translate(-550, -620)">
-      <circle cx="550" cy="575" r="35" fill="hotpink"/>
-      <circle cx="593" cy="606" r="35" fill="hotpink"/>
-      <circle cx="576" cy="656" r="35" fill="hotpink"/>
-      <circle cx="524" cy="656" r="35" fill="hotpink"/>
-      <circle cx="507" cy="606" r="35" fill="hotpink"/>
-      <circle cx="550" cy="620" r="30" fill="darkorchid" stroke="purple" stroke-width="3"/>
-    </g>
-  </g>
-
-  <!-- 5. Zon -->
-  <g transform="translate(1530, 2800)">
-    <circle r="60" fill="none" stroke="#999" stroke-width="3" stroke-dasharray="5,5"/>
-    <text y="90" font-family="sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#FF4500">Oranje</text>
-    <g transform="scale(0.5) translate(-250, -980)">
-      <polygon points="250,900 265.5,922.1 290,910.7 292.4,937.6 319.3,940 307.9,964.5 330,980 307.9,995.5 319.3,1020 292.4,1022.4 290,1049.3 265.5,1037.9 250,1060 234.5,1037.9 210,1049.3 207.6,1022.4 180.7,1020 192.1,995.5 170,980 192.1,964.5 180.7,940 207.6,937.6 210,910.7 234.5,922.1" fill="#FF8C00" stroke="#FF4500" stroke-width="5" stroke-linejoin="round"/>
-      <circle cx="250" cy="980" r="45" fill="#FF8C00"/>
-    </g>
-  </g>
-
-  <!-- 6. Maan -->
-  <g transform="translate(1850, 2800)">
-    <circle r="60" fill="none" stroke="#999" stroke-width="3" stroke-dasharray="5,5"/>
-    <text y="90" font-family="sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="limegreen">Groen</text>
-    <g transform="scale(0.5) translate(-550, -980)">
-      <path d="M 590 890 C 460 890 460 1070 590 1070 C 530 1020 530 940 590 890 Z" fill="limegreen" stroke="forestgreen" stroke-width="4"/>
+  <!-- 6. Vlinder + Maan -->
+  <g transform="translate(1120, 2030) scale(1.15)">
+    <use href="#vlinder"/>
+    <g transform="translate(100, 100)">
+      <circle r="60" fill="none" stroke="#999" stroke-width="3" stroke-dasharray="5,5"/>
+      <g transform="scale(0.5) translate(-550, -980)">
+        <path d="M 590 890 C 460 890 460 1070 590 1070 C 530 1020 530 940 590 890 Z" fill="limegreen" stroke="forestgreen" stroke-width="4"/>
+      </g>
     </g>
   </g>
 
