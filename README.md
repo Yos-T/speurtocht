@@ -60,12 +60,12 @@ Jij bent nu de Blauwe Leider. We moeten naar de volgende plek zweven. Iedereen m
 *(Geef de roze stift en het bloem symbool aan Vlinder 4).*
 
 **VOORLEZEN:**
-"Mmmm, ruiken jullie dat? Het is de roze kleur en de **Bloem**! Deze hoort bij jou *(naam Vlinder 4)*. Dit geeft je de kracht van de **Magische Speurneus**.
-Jij bent nu de Roze Leider. Wij kunnen door al dat bouwstof de weg niet meer zien, maar jij kunt de volgende bloemen ruiken! Iedereen moet als een snuffelend hondje (of zoemend bijtje) achter de leider aan lopen. We speuren naar de Roze Tijd-Bloemen!"
+"Mmmm, ruiken jullie dat? Het is de roze kleur en de **Bloem**! Deze hoort bij jou *(naam Vlinder 4)*. De Bloem geeft je de kracht van de **Magische Stem**.
+Jij bent nu de Roze Leider. De grote machines op de bouwplaats maken veel lawaai, maar met jouw magische stem zing je daar makkelijk overheen! Jij mag een leuk liedje inzetten, en de hele weg naar de volgende bloem loopt iedereen luidkeels zingend achter je aan. We speuren naar de Roze Tijd-Bloemen!"
 
-* **Lopen naar het spel:** Snuffelend/zoemend achter Vlinder 4. Roze bloemen zoeken.
+* **Lopen naar het spel:** Zingend achter Vlinder 4 aan. Roze bloemen zoeken.
 * **Aankomst bij Spel 4 (Snoep happen):** 
-**VOORLEZEN:** "We hebben veel energie verbruikt, tijd voor lekkere nectar! Met jouw superzintuigen ben jij de beste in eten vinden zonder je handen te gebruiken. De Roze Leider mag als allereerste nectar (snoep) happen en daarna de rest aanmoedigen!"
+**VOORLEZEN:** "Van al dat harde zingen hebben we een droge keel gekregen. Tijd voor lekkere nectar! Omdat de Roze Leider onze fantastische zang-dirigent was, mag hij/zij als allereerste nectar (snoep) happen zonder de handen te gebruiken, en daarna de rest aanmoedigen!"
 *(Na het spel kleurt Vlinder 4 in).*
 
 ---
@@ -74,12 +74,12 @@ Jij bent nu de Roze Leider. Wij kunnen door al dat bouwstof de weg niet meer zie
 *(Geef de oranje stift en het zon symbool aan Vlinder 5).*
 
 **VOORLEZEN:**
-"Het wordt hier opeens lekker warm. We hebben de oranje kleur en de **Zon** gevonden! Dit is jouw kracht *(naam Vlinder 5)*. De Zon geeft je **Oerkracht**. Je bent ineens supersterk, net als de graafmachines!
-Jij bent nu de Oranje Leider. Laat je spierballen maar zien! Iedereen moet achter de leider aan lopen door met zware reuzenstappen op de grond te stampen. We zoeken de Oranje Tijd-Bloemen!"
+"Kijk, het wordt hier opeens lekker warm. De zon schijnt zowaar door het bouwstof heen! We hebben de oranje kleur en de **Zon** gevonden! Dit is jouw kracht *(naam Vlinder 5)*. De Zon geeft je vrolijke **Zonne-energie**! Je kunt onmogelijk nog stilstaan.
+Jij bent nu de Oranje Leider. De hele weg naar de volgende bloem dansen, springen en swingen we achter je aan. Schud al dat bouwstof maar van je af! We zoeken de Oranje Tijd-Bloemen!"
 
-* **Lopen naar het spel:** Zware, stampende reuzenstappen. Oranje bloemen zoeken.
+* **Lopen naar het spel:** Al dansend en swingend achter Vlinder 5 aan. Oranje bloemen zoeken.
 * **Aankomst bij Spel 5 (Ontsnap uit de kring):** 
-**VOORLEZEN:** "We zitten in de val! We moeten kijken of onze Oranje Leider écht de allersterkste is. Wij maken een stevige kring door elkaars handen vast te houden, en de Oranje Leider staat in het midden. Gebruik je Oerkracht om uit de kring te ontsnappen!"
+**VOORLEZEN:** "We zitten in de val en we barsten allemaal van de energie! We gaan kijken of de Oranje Leider echt helemáál niet meer te stoppen is. Wij maken een stevige kring door elkaars handen vast te houden, en de Oranje Leider staat in het midden. Gebruik je wilde dans-energie om uit de kring te ontsnappen!"
 *(Na het spel kleurt Vlinder 5 in).*
 
 ---
