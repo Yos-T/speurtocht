@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-15 -15 130 130" width="400" height="400">
+  <defs>
+    <!-- De gulden middenweg: large-arc-flag weer op 1, met een radius van 15. 
+         Dit maakt ze weer bol zoals in het begin, maar zonder dat ze gigantisch overlappen. -->
+    <path id="leaf" d="M 50 50 L 25 25 A 15 15 0 1 1 50 20 A 15 15 0 1 1 75 25 Z" />
+  </defs>
+  <g fill="none" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <use href="#leaf" />
+    <use href="#leaf" transform="rotate(90 50 50)" />
+    <use href="#leaf" transform="rotate(180 50 50)" />
+    <use href="#leaf" transform="rotate(270 50 50)" />
+  </g>
+</svg>

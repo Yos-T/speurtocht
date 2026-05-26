@@ -1,87 +1,288 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200" width="100%" height="100%">
-  <!-- Achtergrond -->
   <rect width="100%" height="100%" fill="white"/>
 
-  <!-- TITEL -->
-  <text x="400" y="60" font-family="sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="black">De 6 Vlinder Symbolen (Knipvel)</text>
-  <text x="400" y="95" font-family="sans-serif" font-size="20" text-anchor="middle" fill="gray">Schrijf de geheime letter op de achterkant en verstop deze bij de Tijd-Bloemen!</text>
+  <text x="400" y="40" font-family="sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="black">De 9 Vlinder Symbolen (Knipvel)</text>
+  <text x="400" y="65" font-family="sans-serif" font-size="15" text-anchor="middle" fill="gray">Knip de gekleurde symbolen uit. De zwart-wit symbolen zijn reserve.</text>
+  <text x="400" y="83" font-family="sans-serif" font-size="15" text-anchor="middle" fill="gray">De symbolen passen op de kop van de vlinders in het complete printvel.</text>
 
-  <!-- ======================== -->
-  <!-- 1. ROOD HARTJE           -->
-  <!-- ======================== -->
-  <g>
-    <!-- Kniprand -->
-    <circle cx="250" cy="260" r="120" fill="none" stroke="#999" stroke-width="3" stroke-dasharray="10,10"/>
-    <text x="250" y="410" font-family="sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="crimson">Rood (Hartje)</text>
-    
-    <!-- Symbool (Verticaal iets uitgerekt voor een strakker hart) -->
-    <path d="M 250 340 C 360 270 360 160 250 220 C 140 160 140 270 250 340 Z" fill="crimson" stroke="darkred" stroke-width="4"/>
+  <defs>
+    <g id="knipcirkel">
+      <circle r="60" fill="none" stroke="#999" stroke-width="2" stroke-dasharray="6,6"/>
+    </g>
+
+    <!-- HARTJE - center ~(250, 260) -->
+    <path id="s-hartje" d="M 250 340 C 360 270 360 160 250 220 C 140 160 140 270 250 340 Z"/>
+
+    <!-- BLIKSEM - center ~(550, 260) -->
+    <polygon id="s-bliksem" points="560,160 500,270 550,270 530,360 610,240 550,240"/>
+
+    <!-- WOLK - center ~(250, 580) -->
+    <path id="s-wolk" d="M 170 660 C 130 660 130 580 180 580 C 190 510 300 510 320 570 C 370 560 380 650 330 660 Z"/>
+
+    <!-- BLOEM - center ~(550, 620) -->
+    <g id="s-bloem-petalen">
+      <circle cx="550" cy="575" r="35"/>
+      <circle cx="593" cy="606" r="35"/>
+      <circle cx="576" cy="656" r="35"/>
+      <circle cx="524" cy="656" r="35"/>
+      <circle cx="507" cy="606" r="35"/>
+    </g>
+    <circle id="s-bloem-center" cx="550" cy="620" r="30"/>
+
+    <!-- ZON - center ~(250, 980) -->
+    <g id="s-zon">
+      <polygon points="250,900 265.5,922.1 290,910.7 292.4,937.6 319.3,940 307.9,964.5 330,980 307.9,995.5 319.3,1020 292.4,1022.4 290,1049.3 265.5,1037.9 250,1060 234.5,1037.9 210,1049.3 207.6,1022.4 180.7,1020 192.1,995.5 170,980 192.1,964.5 180.7,940 207.6,937.6 210,910.7 234.5,922.1"/>
+      <circle cx="250" cy="980" r="45"/>
+    </g>
+
+    <!-- MAAN - center ~(550, 980) -->
+    <path id="s-maan" d="M 590 890 C 460 890 460 1070 590 1070 C 530 1020 530 940 590 890 Z"/>
+
+    <!-- STER (nieuw) - centered at origin -->
+    <polygon id="s-ster" points="0,-95 23,-36 90,-29 38,10 57,86 0,42 -57,86 -38,10 -90,-29 -23,-36"/>
+
+    <!-- KLAVERTJE 4 (nieuw) - centered at origin, 4 ronde klaverbladeren -->
+    <path id="s-klaverblad" d="M 0 0 C -65 -15 -70 -85 0 -95 C 70 -85 65 -15 0 0 Z"/>
+    <path id="s-klaverblad-ader" d="M 0 0 Q 0 -50 0 -88" fill="none"/>
+    <g id="s-klavertje4-harten">
+      <use href="#s-klaverblad"/>
+      <use href="#s-klaverblad" transform="rotate(90)"/>
+      <use href="#s-klaverblad" transform="rotate(180)"/>
+      <use href="#s-klaverblad" transform="rotate(270)"/>
+      <circle cx="0" cy="0" r="10"/>
+    </g>
+    <g id="s-klavertje4-aders">
+      <use href="#s-klaverblad-ader"/>
+      <use href="#s-klaverblad-ader" transform="rotate(90)"/>
+      <use href="#s-klaverblad-ader" transform="rotate(180)"/>
+      <use href="#s-klaverblad-ader" transform="rotate(270)"/>
+    </g>
+
+    <!-- KROON (nieuw) - centered at origin -->
+    <polygon id="s-kroon" points="-75,40 -58,-30 -30,8 0,-55 30,8 58,-30 75,40"/>
+
+    <!-- Helper: transform originelen naar gecentreerde geschaalde versie -->
+    <g id="c-hartje"><g transform="scale(0.5) translate(-250, -260)"><use href="#s-hartje"/></g></g>
+    <g id="c-bliksem"><g transform="scale(0.5) translate(-550, -260)"><use href="#s-bliksem"/></g></g>
+    <g id="c-wolk"><g transform="scale(0.5) translate(-250, -580)"><use href="#s-wolk"/></g></g>
+    <g id="c-zon"><g transform="scale(0.5) translate(-250, -980)"><use href="#s-zon"/></g></g>
+    <g id="c-maan"><g transform="scale(0.5) translate(-550, -980)"><use href="#s-maan"/></g></g>
+    <g id="c-ster"><g transform="scale(0.5)"><use href="#s-ster"/></g></g>
+    <g id="c-kroon"><g transform="scale(0.5)"><use href="#s-kroon"/></g></g>
+  </defs>
+
+  <!-- ============================================ -->
+  <!-- Gekleurde symbolen (1 t/m 9)                -->
+  <!-- ============================================ -->
+
+  <!-- 1. HARTJE (Rood) -->
+  <g transform="translate(124, 160)">
+    <use href="#knipcirkel"/>
+    <g transform="scale(0.5) translate(-250, -260)">
+      <use href="#s-hartje" fill="crimson" stroke="darkred" stroke-width="4"/>
+    </g>
+    <text x="0" y="78" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="crimson">Rood (Hartje)</text>
   </g>
 
-  <!-- ======================== -->
-  <!-- 2. GELE BLIKSEM          -->
-  <!-- ======================== -->
-  <g>
-    <!-- Kniprand -->
-    <circle cx="550" cy="260" r="120" fill="none" stroke="#999" stroke-width="3" stroke-dasharray="10,10"/>
-    <text x="550" y="410" font-family="sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#DAA520">Geel (Bliksem)</text>
-    
-    <!-- Symbool (Nu felgeel/goudkleurig voor meer contrast met de zon) -->
-    <polygon points="560,160 500,270 550,270 530,360 610,240 550,240" fill="#FFE600" stroke="#DAA520" stroke-width="5" stroke-linejoin="round"/>
+  <!-- 2. BLIKSEM (Geel) -->
+  <g transform="translate(308, 160)">
+    <use href="#knipcirkel"/>
+    <g transform="scale(0.5) translate(-550, -260)">
+      <use href="#s-bliksem" fill="#FFE600" stroke="#DAA520" stroke-width="5" stroke-linejoin="round"/>
+    </g>
+    <text x="0" y="78" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#DAA520">Geel (Bliksem)</text>
   </g>
 
-  <!-- ======================== -->
-  <!-- 3. BLAUWE WOLK           -->
-  <!-- ======================== -->
-  <g>
-    <!-- Kniprand -->
-    <circle cx="250" cy="620" r="120" fill="none" stroke="#999" stroke-width="3" stroke-dasharray="10,10"/>
-    <text x="250" y="770" font-family="sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="dodgerblue">Blauw (Wolk)</text>
-    
-    <!-- Symbool -->
-    <path d="M 170 660 C 130 660 130 580 180 580 C 190 510 300 510 320 570 C 370 560 380 650 330 660 Z" fill="skyblue" stroke="dodgerblue" stroke-width="5" stroke-linejoin="round"/>
+  <!-- 3. WOLK (Blauw) -->
+  <g transform="translate(492, 160)">
+    <use href="#knipcirkel"/>
+    <g transform="scale(0.5) translate(-250, -580)">
+      <use href="#s-wolk" fill="skyblue" stroke="dodgerblue" stroke-width="5" stroke-linejoin="round"/>
+    </g>
+    <text x="0" y="78" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="dodgerblue">Blauw (Wolk)</text>
   </g>
 
-  <!-- ======================== -->
-  <!-- 4. ROZE BLOEM            -->
-  <!-- ======================== -->
-  <g>
-    <!-- Kniprand -->
-    <circle cx="550" cy="620" r="120" fill="none" stroke="#999" stroke-width="3" stroke-dasharray="10,10"/>
-    <text x="550" y="770" font-family="sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="hotpink">Roze (Bloem)</text>
-    
-    <!-- Symbool -->
-    <circle cx="550" cy="575" r="35" fill="hotpink"/>
-    <circle cx="593" cy="606" r="35" fill="hotpink"/>
-    <circle cx="576" cy="656" r="35" fill="hotpink"/>
-    <circle cx="524" cy="656" r="35" fill="hotpink"/>
-    <circle cx="507" cy="606" r="35" fill="hotpink"/>
-    <circle cx="550" cy="620" r="30" fill="darkorchid" stroke="purple" stroke-width="3"/>
+  <!-- 4. BLOEM (Roze) -->
+  <g transform="translate(676, 160)">
+    <use href="#knipcirkel"/>
+    <g transform="scale(0.5) translate(-550, -620)">
+      <use href="#s-bloem-petalen" fill="hotpink"/>
+      <use href="#s-bloem-center" fill="darkorchid" stroke="purple" stroke-width="3"/>
+    </g>
+    <text x="0" y="78" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="hotpink">Roze (Bloem)</text>
   </g>
 
-  <!-- ======================== -->
-  <!-- 5. ORANJE ZON            -->
-  <!-- ======================== -->
-  <g>
-    <!-- Kniprand -->
-    <circle cx="250" cy="980" r="120" fill="none" stroke="#999" stroke-width="3" stroke-dasharray="10,10"/>
-    <text x="250" y="1130" font-family="sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#FF4500">Oranje (Zon)</text>
-    
-    <!-- Symbool (Nu echt donkeroranje/roodoranje voor contrast met de bliksem) -->
-    <polygon points="250,900 265.5,922.1 290,910.7 292.4,937.6 319.3,940 307.9,964.5 330,980 307.9,995.5 319.3,1020 292.4,1022.4 290,1049.3 265.5,1037.9 250,1060 234.5,1037.9 210,1049.3 207.6,1022.4 180.7,1020 192.1,995.5 170,980 192.1,964.5 180.7,940 207.6,937.6 210,910.7 234.5,922.1" fill="#FF8C00" stroke="#FF4500" stroke-width="5" stroke-linejoin="round"/>
-    <circle cx="250" cy="980" r="45" fill="#FF8C00"/>
+  <!-- 5. ZON (Oranje) -->
+  <g transform="translate(124, 320)">
+    <use href="#knipcirkel"/>
+    <g transform="scale(0.5) translate(-250, -980)">
+      <use href="#s-zon" fill="#FF8C00" stroke="#FF4500" stroke-width="5" stroke-linejoin="round"/>
+    </g>
+    <text x="0" y="78" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#FF4500">Oranje (Zon)</text>
   </g>
 
-  <!-- ======================== -->
-  <!-- 6. GROENE MAAN           -->
-  <!-- ======================== -->
-  <g>
-    <!-- Kniprand -->
-    <circle cx="550" cy="980" r="120" fill="none" stroke="#999" stroke-width="3" stroke-dasharray="10,10"/>
-    <text x="550" y="1130" font-family="sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="limegreen">Groen (Maan)</text>
-    
-    <!-- Symbool (Visueel naar links geschoven voor de perfecte balans) -->
-    <path d="M 590 890 C 460 890 460 1070 590 1070 C 530 1020 530 940 590 890 Z" fill="limegreen" stroke="forestgreen" stroke-width="4"/>
+  <!-- 6. MAAN (Groen) -->
+  <g transform="translate(308, 320)">
+    <use href="#knipcirkel"/>
+    <g transform="scale(0.5) translate(-550, -980)">
+      <use href="#s-maan" fill="limegreen" stroke="forestgreen" stroke-width="4"/>
+    </g>
+    <text x="0" y="78" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="limegreen">Groen (Maan)</text>
+  </g>
+
+  <!-- 7. STER (Paars) -->
+  <g transform="translate(492, 320)">
+    <use href="#knipcirkel"/>
+    <g transform="scale(0.5)">
+      <use href="#s-ster" fill="#800080" stroke="#6A0DAD" stroke-width="5" stroke-linejoin="round"/>
+    </g>
+    <text x="0" y="78" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#800080">Paars (Ster)</text>
+  </g>
+
+  <!-- 8. KLAVERTJE 4 (Goud) -->
+  <g transform="translate(676, 320)">
+    <use href="#knipcirkel"/>
+    <g transform="scale(0.5)">
+      <use href="#s-klavertje4-harten" fill="#FFD700" stroke="#B8860B" stroke-width="4"/>
+      <use href="#s-klavertje4-aders" stroke="#B8860B" stroke-width="3" stroke-linecap="round"/>
+    </g>
+    <text x="0" y="78" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#B8860B">Goud (Klavertje 4)</text>
+  </g>
+
+  <!-- 9. KROON (Zilver) -->
+  <g transform="translate(124, 480)">
+    <use href="#knipcirkel"/>
+    <g transform="scale(0.5)">
+      <use href="#s-kroon" fill="#C0C0C0" stroke="#808080" stroke-width="4" stroke-linejoin="round"/>
+    </g>
+    <text x="0" y="78" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#808080">Zilver (Kroon)</text>
+  </g>
+
+  <!-- ============================================ -->
+  <!-- Zwart-wit symbolen (10 t/m 24)               -->
+  <!-- ============================================ -->
+
+  <!-- 10. HARTJE BW -->
+  <g transform="translate(308, 480)">
+    <use href="#knipcirkel"/>
+    <g transform="scale(0.5) translate(-250, -260)">
+      <use href="#s-hartje" fill="none" stroke="black" stroke-width="2.5"/>
+    </g>
+  </g>
+
+  <!-- 11. BLIKSEM BW -->
+  <g transform="translate(492, 480)">
+    <use href="#knipcirkel"/>
+    <g transform="scale(0.5) translate(-550, -260)">
+      <use href="#s-bliksem" fill="none" stroke="black" stroke-width="2.5" stroke-linejoin="round"/>
+    </g>
+  </g>
+
+  <!-- 12. WOLK BW -->
+  <g transform="translate(676, 480)">
+    <use href="#knipcirkel"/>
+    <g transform="scale(0.5) translate(-250, -580)">
+      <use href="#s-wolk" fill="none" stroke="black" stroke-width="2.5" stroke-linejoin="round"/>
+    </g>
+  </g>
+
+  <!-- 13. BLOEM BW -->
+  <g transform="translate(124, 640)">
+    <use href="#knipcirkel"/>
+    <g transform="scale(0.5) translate(-550, -620)">
+      <use href="#s-bloem-petalen" fill="none" stroke="black" stroke-width="2.5"/>
+      <use href="#s-bloem-center" fill="none" stroke="black" stroke-width="2.5"/>
+    </g>
+  </g>
+
+  <!-- 14. ZON BW -->
+  <g transform="translate(308, 640)">
+    <use href="#knipcirkel"/>
+    <g transform="scale(0.5) translate(-250, -980)">
+      <use href="#s-zon" fill="none" stroke="black" stroke-width="2.5" stroke-linejoin="round"/>
+    </g>
+  </g>
+
+  <!-- 15. MAAN BW -->
+  <g transform="translate(492, 640)">
+    <use href="#knipcirkel"/>
+    <g transform="scale(0.5) translate(-550, -980)">
+      <use href="#s-maan" fill="none" stroke="black" stroke-width="2.5"/>
+    </g>
+  </g>
+
+  <!-- 16. STER BW -->
+  <g transform="translate(676, 640)">
+    <use href="#knipcirkel"/>
+    <g transform="scale(0.5)">
+      <use href="#s-ster" fill="none" stroke="black" stroke-width="2.5" stroke-linejoin="round"/>
+    </g>
+  </g>
+
+  <!-- 17. KLAVERTJE 4 BW -->
+  <g transform="translate(124, 800)">
+    <use href="#knipcirkel"/>
+    <g transform="scale(0.5)">
+      <use href="#s-klavertje4-harten" fill="none" stroke="black" stroke-width="2.5"/>
+      <use href="#s-klavertje4-aders" stroke="black" stroke-width="1.5" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <!-- 18. KROON BW -->
+  <g transform="translate(308, 800)">
+    <use href="#knipcirkel"/>
+    <g transform="scale(0.5)">
+      <use href="#s-kroon" fill="none" stroke="black" stroke-width="2.5" stroke-linejoin="round"/>
+    </g>
+  </g>
+
+  <!-- 19. HARTJE BW -->
+  <g transform="translate(492, 800)">
+    <use href="#knipcirkel"/>
+    <g transform="scale(0.5) translate(-250, -260)">
+      <use href="#s-hartje" fill="none" stroke="black" stroke-width="2.5"/>
+    </g>
+  </g>
+
+  <!-- 20. BLIKSEM BW -->
+  <g transform="translate(676, 800)">
+    <use href="#knipcirkel"/>
+    <g transform="scale(0.5) translate(-550, -260)">
+      <use href="#s-bliksem" fill="none" stroke="black" stroke-width="2.5" stroke-linejoin="round"/>
+    </g>
+  </g>
+
+  <!-- 21. WOLK BW -->
+  <g transform="translate(124, 960)">
+    <use href="#knipcirkel"/>
+    <g transform="scale(0.5) translate(-250, -580)">
+      <use href="#s-wolk" fill="none" stroke="black" stroke-width="2.5" stroke-linejoin="round"/>
+    </g>
+  </g>
+
+  <!-- 22. BLOEM BW -->
+  <g transform="translate(308, 960)">
+    <use href="#knipcirkel"/>
+    <g transform="scale(0.5) translate(-550, -620)">
+      <use href="#s-bloem-petalen" fill="none" stroke="black" stroke-width="2.5"/>
+      <use href="#s-bloem-center" fill="none" stroke="black" stroke-width="2.5"/>
+    </g>
+  </g>
+
+  <!-- 23. ZON BW -->
+  <g transform="translate(492, 960)">
+    <use href="#knipcirkel"/>
+    <g transform="scale(0.5) translate(-250, -980)">
+      <use href="#s-zon" fill="none" stroke="black" stroke-width="2.5" stroke-linejoin="round"/>
+    </g>
+  </g>
+
+  <!-- 24. MAAN BW -->
+  <g transform="translate(676, 960)">
+    <use href="#knipcirkel"/>
+    <g transform="scale(0.5) translate(-550, -980)">
+      <use href="#s-maan" fill="none" stroke="black" stroke-width="2.5"/>
+    </g>
   </g>
 
 </svg>
