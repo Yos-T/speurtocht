@@ -1,282 +1,5381 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200" width="100%" height="100%">
-  <rect width="100%" height="100%" fill="white"/>
-
-  <text x="400" y="40" font-family="sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="black">De 9 Vlinder Symbolen (Knipvel)</text>
-  <text x="400" y="65" font-family="sans-serif" font-size="15" text-anchor="middle" fill="gray">Knip de gekleurde symbolen uit. De zwart-wit symbolen zijn reserve.</text>
-  <text x="400" y="83" font-family="sans-serif" font-size="15" text-anchor="middle" fill="gray">De symbolen passen op de kop van de vlinders in het complete printvel.</text>
-
-  <defs>
-    <g id="knipcirkel">
-      <circle r="60" fill="none" stroke="#999" stroke-width="2" stroke-dasharray="6,6"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 2100 2970"
+   width="210mm"
+   height="297mm"
+   version="1.1"
+   id="svg59"
+   sodipodi:docname="symbolen_printvel.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview59"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.77771465"
+     inkscape:cx="7.0720026"
+     inkscape:cy="473.82417"
+     inkscape:window-width="1918"
+     inkscape:window-height="1059"
+     inkscape:window-x="0"
+     inkscape:window-y="19"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg59" />
+  <!-- Achtergrond -->
+  <!-- TITEL -->
+  <!-- DEFINITIES (Het basisontwerp van de vlinder) -->
+  <defs
+     id="defs30">
+    <g
+       id="vlinder">
+      <!-- Klok buitenring -->
+      <circle
+         cx="400"
+         cy="400"
+         r="330"
+         fill="none"
+         stroke="#ccc"
+         stroke-width="3"
+         stroke-dasharray="12,12"
+         id="circle2" />
+      <!-- Voelsprieten -->
+      <path
+         d="M 370 140 Q 320 60 250 90"
+         fill="none"
+         stroke="black"
+         stroke-width="5"
+         stroke-linecap="round"
+         id="path2" />
+      <circle
+         cx="250"
+         cy="90"
+         r="10"
+         fill="black"
+         id="circle3" />
+      <path
+         d="M 430 140 Q 480 60 550 90"
+         fill="none"
+         stroke="black"
+         stroke-width="5"
+         stroke-linecap="round"
+         id="path3" />
+      <circle
+         cx="550"
+         cy="90"
+         r="10"
+         fill="black"
+         id="circle4" />
+      <!-- VLEUGELS -->
+      <g
+         fill="white"
+         stroke="black"
+         stroke-width="6"
+         stroke-linejoin="round"
+         id="g9">
+        <path
+           d="M 400 280 C 250 160 140 220 120 320 C 110 360 110 380 130 400 C 120 440 120 460 150 480 C 140 550 190 680 260 650 C 310 630 350 580 400 520 Z"
+           id="path4" />
+        <path
+           d="M 400 360 Q 250 350 130 400"
+           fill="none"
+           stroke-linecap="round"
+           id="path5" />
+        <path
+           d="M 400 440 Q 250 440 150 480"
+           fill="none"
+           stroke-linecap="round"
+           id="path6" />
+        <path
+           d="M 400 280 C 550 160 660 220 680 320 C 690 360 690 380 670 400 C 680 440 680 460 650 480 C 660 550 610 680 540 650 C 490 630 450 580 400 520 Z"
+           id="path7" />
+        <path
+           d="M 400 360 Q 550 350 670 400"
+           fill="none"
+           stroke-linecap="round"
+           id="path8" />
+        <path
+           d="M 400 440 Q 550 440 650 480"
+           fill="none"
+           stroke-linecap="round"
+           id="path9" />
+      </g>
+      <!-- INVUL-RONDJES VOOR DE LETTERS -->
+      <g
+         fill="white"
+         stroke="black"
+         stroke-width="3"
+         stroke-dasharray="4,4"
+         id="g14">
+        <circle
+           cx="240"
+           cy="280"
+           r="28"
+           id="circle9" />
+        <circle
+           cx="220"
+           cy="410"
+           r="28"
+           id="circle10" />
+        <circle
+           cx="270"
+           cy="560"
+           r="28"
+           id="circle11" />
+        <circle
+           cx="560"
+           cy="280"
+           r="28"
+           id="circle12" />
+        <circle
+           cx="580"
+           cy="410"
+           r="28"
+           id="circle13" />
+        <circle
+           cx="530"
+           cy="560"
+           r="28"
+           id="circle14" />
+      </g>
+      <!-- KLOK GETALLEN -->
+      <g
+         font-family="sans-serif"
+         text-anchor="middle"
+         fill="black"
+         id="g25">
+        <text
+           x="400"
+           y="80"
+           font-size="40"
+           font-weight="bold"
+           id="text14">12</text>
+        <text
+           x="565"
+           y="125"
+           font-size="30"
+           id="text15">1</text>
+        <text
+           x="685"
+           y="245"
+           font-size="30"
+           id="text16">2</text>
+        <text
+           x="745"
+           y="415"
+           font-size="40"
+           font-weight="bold"
+           id="text17">3</text>
+        <text
+           x="685"
+           y="585"
+           font-size="30"
+           id="text18">4</text>
+        <text
+           x="565"
+           y="705"
+           font-size="30"
+           id="text19">5</text>
+        <text
+           x="400"
+           y="760"
+           font-size="40"
+           font-weight="bold"
+           id="text20">6</text>
+        <text
+           x="235"
+           y="705"
+           font-size="30"
+           id="text21">7</text>
+        <text
+           x="115"
+           y="585"
+           font-size="30"
+           id="text22">8</text>
+        <text
+           x="55"
+           y="415"
+           font-size="40"
+           font-weight="bold"
+           id="text23">9</text>
+        <text
+           x="115"
+           y="245"
+           font-size="30"
+           id="text24">10</text>
+        <text
+           x="235"
+           y="125"
+           font-size="30"
+           id="text25">11</text>
+      </g>
+      <!-- LIJFJE -->
+      <ellipse
+         cx="400"
+         cy="400"
+         rx="55"
+         ry="140"
+         fill="white"
+         stroke="black"
+         stroke-width="6"
+         id="ellipse25" />
+      <circle
+         cx="400"
+         cy="400"
+         r="8"
+         fill="white"
+         stroke="black"
+         stroke-width="4"
+         id="circle25" />
+      <!-- KOP / SYMBOOL PLEK -->
+      <circle
+         cx="400"
+         cy="200"
+         r="60"
+         fill="white"
+         stroke="black"
+         stroke-width="4"
+         stroke-dasharray="8,6"
+         id="circle26" />
+      <text
+         x="400"
+         y="195"
+         text-anchor="middle"
+         font-family="sans-serif"
+         font-size="16"
+         font-weight="bold"
+         id="text26">Plak symbool</text>
+      <text
+         x="400"
+         y="215"
+         text-anchor="middle"
+         font-family="sans-serif"
+         font-size="16"
+         font-weight="bold"
+         id="text27">hier</text>
     </g>
-
-    <!-- HARTJE - center ~(250, 260) -->
-    <path id="s-hartje" d="M 250 340 C 360 270 360 160 250 220 C 140 160 140 270 250 340 Z"/>
-
-    <!-- BLIKSEM - center ~(550, 260) -->
-    <polygon id="s-bliksem" points="560,160 500,270 550,270 530,360 610,240 550,240"/>
-
-    <!-- WOLK - center ~(250, 580) -->
-    <path id="s-wolk" d="M 170 660 C 130 660 130 580 180 580 C 190 510 300 510 320 570 C 370 560 380 650 330 660 Z"/>
-
-    <!-- BLOEM - center ~(550, 620) -->
-    <g id="s-bloem-petalen">
-      <circle cx="550" cy="575" r="35"/>
-      <circle cx="593" cy="606" r="35"/>
-      <circle cx="576" cy="656" r="35"/>
-      <circle cx="524" cy="656" r="35"/>
-      <circle cx="507" cy="606" r="35"/>
+    <!-- NIEUWE SYMBOLEN (voor extra kinderen) -->
+    <polygon
+       id="s-ster"
+       points="0,-95 23,-36 90,-29 38,10 57,86 0,42 -57,86 -38,10 -90,-29 -23,-36" />
+    <path
+       id="s-klaverblad"
+       d="M 0 0 L -48 -48 A 29 29 0 1 1 0 -58 A 29 29 0 1 1 48 -48 Z" />
+    <g
+       id="s-klavertje4-harten">
+      <use
+         href="#s-klaverblad"
+         id="use27" />
+      <use
+         href="#s-klaverblad"
+         transform="rotate(90)"
+         id="use28" />
+      <use
+         href="#s-klaverblad"
+         transform="rotate(180)"
+         id="use29" />
+      <use
+         href="#s-klaverblad"
+         transform="rotate(270)"
+         id="use30" />
     </g>
-    <circle id="s-bloem-center" cx="550" cy="620" r="30"/>
-
-    <!-- ZON - center ~(250, 980) -->
-    <g id="s-zon">
-      <polygon points="250,900 265.5,922.1 290,910.7 292.4,937.6 319.3,940 307.9,964.5 330,980 307.9,995.5 319.3,1020 292.4,1022.4 290,1049.3 265.5,1037.9 250,1060 234.5,1037.9 210,1049.3 207.6,1022.4 180.7,1020 192.1,995.5 170,980 192.1,964.5 180.7,940 207.6,937.6 210,910.7 234.5,922.1"/>
-      <circle cx="250" cy="980" r="45"/>
-    </g>
-
-    <!-- MAAN - center ~(550, 980) -->
-    <path id="s-maan" d="M 590 890 C 460 890 460 1070 590 1070 C 530 1020 530 940 590 890 Z"/>
-
-    <!-- STER (nieuw) - centered at origin -->
-    <polygon id="s-ster" points="0,-95 23,-36 90,-29 38,10 57,86 0,42 -57,86 -38,10 -90,-29 -23,-36"/>
-
-    <!-- KLAVERTJE 4 (nieuw) - centered at origin, 4 ronde klaverbladeren -->
-    <path id="s-klaverblad" d="M 0 0 L -48 -48 A 29 29 0 1 1 0 -58 A 29 29 0 1 1 48 -48 Z"/>
-    <g id="s-klavertje4-harten">
-      <use href="#s-klaverblad"/>
-      <use href="#s-klaverblad" transform="rotate(90)"/>
-      <use href="#s-klaverblad" transform="rotate(180)"/>
-      <use href="#s-klaverblad" transform="rotate(270)"/>
-    </g>
-    <g id="s-klavertje4-aders">
-    </g>
-
-    <!-- KROON (nieuw) - centered at origin -->
-    <polygon id="s-kroon" points="-75,40 -58,-30 -30,8 0,-55 30,8 58,-30 75,40"/>
-
-    <!-- Helper: transform originelen naar gecentreerde geschaalde versie -->
-    <g id="c-hartje"><g transform="scale(0.5) translate(-250, -260)"><use href="#s-hartje"/></g></g>
-    <g id="c-bliksem"><g transform="scale(0.5) translate(-550, -260)"><use href="#s-bliksem"/></g></g>
-    <g id="c-wolk"><g transform="scale(0.5) translate(-250, -580)"><use href="#s-wolk"/></g></g>
-    <g id="c-zon"><g transform="scale(0.5) translate(-250, -980)"><use href="#s-zon"/></g></g>
-    <g id="c-maan"><g transform="scale(0.5) translate(-550, -980)"><use href="#s-maan"/></g></g>
-    <g id="c-ster"><g transform="scale(0.5)"><use href="#s-ster"/></g></g>
-    <g id="c-kroon"><g transform="scale(0.5)"><use href="#s-kroon"/></g></g>
+    <g
+       id="s-klavertje4-aders" />
+    <polygon
+       id="s-kroon"
+       points="-75,40 -58,-30 -30,8 0,-55 30,8 58,-30 75,40" />
   </defs>
-
+  <!-- ========================================================================= -->
+  <!-- OPTIMALISATIE: MAXIMALE GROOTTE (115% geschaald) EN SLIM GEBRUIK VAN GATEN -->
+  <!-- ========================================================================= -->
+  <!-- 1. Vlinder + Hartje -->
+  <g
+     transform="matrix(1.15,0,0,1.15,135.03706,103.77995)"
+     id="g33">
+    <!-- Symbool geplaatst in de lege ruimte linksboven van het vierkant -->
+    <g
+       transform="translate(100,100)"
+       id="g32">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle31"
+         cx="0"
+         cy="0" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-125,-130)"
+         id="g31">
+        <path
+           d="m 250,340 c 110,-70 110,-180 0,-120 -110,-60 -110,50 0,120 z"
+           fill="#dc143c"
+           stroke="#8b0000"
+           stroke-width="4"
+           id="path31" />
+      </g>
+    </g>
+  </g>
+  <!-- 2. Vlinder + Bliksem -->
+  <g
+     transform="matrix(1.15,0,0,1.15,724.82363,112.2851)"
+     id="g36">
+    <g
+       transform="translate(100,100)"
+       id="g35">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle33"
+         cx="0"
+         cy="0" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-275,-130)"
+         id="g34">
+        <polygon
+           points="530,360 610,240 550,240 560,160 500,270 550,270 "
+           fill="#ffe600"
+           stroke="#daa520"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="polygon33" />
+      </g>
+    </g>
+  </g>
+  <!-- 3. Vlinder + Wolk -->
+  <g
+     transform="matrix(1.15,0,0,1.15,338.81026,110.36377)"
+     id="g39">
+    <g
+       transform="translate(100,100)"
+       id="g38">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle36"
+         cx="0"
+         cy="0" />
+      <g
+         transform="matrix(0.45182923,0,0,0.42800104,-114.1679,-259.97675)"
+         id="g37">
+        <path
+           d="m 170,660 c -40,0 -40,-80 10,-80 10,-70 120,-70 140,-10 50,-10 60,80 10,90 z"
+           fill="#87ceeb"
+           stroke="#1e90ff"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="path36" />
+      </g>
+    </g>
+  </g>
+  <!-- 4. Vlinder + Bloem -->
+  <!-- 5. Vlinder + Zon -->
+  <g
+     transform="matrix(1.15,0,0,1.15,1717.9286,112.52331)"
+     id="g50">
+    <g
+       transform="translate(100,100)"
+       id="g49">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle47"
+         cx="0"
+         cy="0" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-125,-490)"
+         id="g48">
+        <polygon
+           points="292.4,937.6 319.3,940 307.9,964.5 330,980 307.9,995.5 319.3,1020 292.4,1022.4 290,1049.3 265.5,1037.9 250,1060 234.5,1037.9 210,1049.3 207.6,1022.4 180.7,1020 192.1,995.5 170,980 192.1,964.5 180.7,940 207.6,937.6 210,910.7 234.5,922.1 250,900 265.5,922.1 290,910.7 "
+           fill="#ff8c00"
+           stroke="#ff4500"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="polygon47" />
+        <circle
+           cx="250"
+           cy="980"
+           r="45"
+           fill="#ff8c00"
+           id="circle48" />
+      </g>
+    </g>
+  </g>
+  <!-- 6. Vlinder + Maan -->
+  <g
+     transform="matrix(1.15,0,0,1.15,1266.4132,115.8753)"
+     id="g53">
+    <g
+       transform="translate(125.14567,98.520843)"
+       id="g52">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle50"
+         cx="0"
+         cy="0" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-275,-490)"
+         id="g51">
+        <path
+           d="m 590,890 c -130,0 -130,180 0,180 -60,-50 -60,-130 0,-180 z"
+           fill="#32cd32"
+           stroke="#228b22"
+           stroke-width="4"
+           id="path50" />
+      </g>
+    </g>
+  </g>
   <!-- ============================================ -->
-  <!-- Gekleurde symbolen (1 t/m 9)                -->
+  <!-- NIEUWE SYMBOLEN (losse symbolen, geen vlinders) -->
   <!-- ============================================ -->
-
-  <!-- 1. HARTJE (Rood) -->
-  <g transform="translate(124, 160)">
-    <use href="#knipcirkel"/>
-    <g transform="scale(0.5) translate(-250, -260)">
-      <use href="#s-hartje" fill="crimson" stroke="darkred" stroke-width="4"/>
-    </g>
-    <text x="0" y="78" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="crimson">Rood (Hartje)</text>
-  </g>
-
-  <!-- 2. BLIKSEM (Geel) -->
-  <g transform="translate(308, 160)">
-    <use href="#knipcirkel"/>
-    <g transform="scale(0.5) translate(-550, -260)">
-      <use href="#s-bliksem" fill="#FFE600" stroke="#DAA520" stroke-width="5" stroke-linejoin="round"/>
-    </g>
-    <text x="0" y="78" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#DAA520">Geel (Bliksem)</text>
-  </g>
-
-  <!-- 3. WOLK (Blauw) -->
-  <g transform="translate(492, 160)">
-    <use href="#knipcirkel"/>
-    <g transform="scale(0.5) translate(-250, -580)">
-      <use href="#s-wolk" fill="skyblue" stroke="dodgerblue" stroke-width="5" stroke-linejoin="round"/>
-    </g>
-    <text x="0" y="78" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="dodgerblue">Blauw (Wolk)</text>
-  </g>
-
-  <!-- 4. BLOEM (Roze) -->
-  <g transform="translate(676, 160)">
-    <use href="#knipcirkel"/>
-    <g transform="scale(0.5) translate(-550, -620)">
-      <use href="#s-bloem-petalen" fill="hotpink"/>
-      <use href="#s-bloem-center" fill="darkorchid" stroke="purple" stroke-width="3"/>
-    </g>
-    <text x="0" y="78" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="hotpink">Roze (Bloem)</text>
-  </g>
-
-  <!-- 5. ZON (Oranje) -->
-  <g transform="translate(124, 320)">
-    <use href="#knipcirkel"/>
-    <g transform="scale(0.5) translate(-250, -980)">
-      <use href="#s-zon" fill="#FF8C00" stroke="#FF4500" stroke-width="5" stroke-linejoin="round"/>
-    </g>
-    <text x="0" y="78" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#FF4500">Oranje (Zon)</text>
-  </g>
-
-  <!-- 6. MAAN (Groen) -->
-  <g transform="translate(308, 320)">
-    <use href="#knipcirkel"/>
-    <g transform="scale(0.5) translate(-550, -980)">
-      <use href="#s-maan" fill="limegreen" stroke="forestgreen" stroke-width="4"/>
-    </g>
-    <text x="0" y="78" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="limegreen">Groen (Maan)</text>
-  </g>
-
-  <!-- 7. STER (Paars) -->
-  <g transform="translate(492, 320)">
-    <use href="#knipcirkel"/>
-    <g transform="scale(0.5)">
-      <use href="#s-ster" fill="#800080" stroke="#6A0DAD" stroke-width="5" stroke-linejoin="round"/>
-    </g>
-    <text x="0" y="78" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#800080">Paars (Ster)</text>
-  </g>
-
-  <!-- 8. KLAVERTJE 4 (Groen) -->
-  <g transform="translate(676, 320)">
-    <use href="#knipcirkel"/>
-    <g transform="scale(0.5)">
-      <use href="#s-klavertje4-harten" fill="#228B22" stroke="#006400" stroke-width="4"/>
-      <use href="#s-klavertje4-aders" stroke="#006400" stroke-width="3" stroke-linecap="round"/>
-    </g>
-    <text x="0" y="78" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#006400">Groen (Klavertje 4)</text>
-  </g>
-
-  <!-- 9. KROON (Zilver) -->
-  <g transform="translate(124, 480)">
-    <use href="#knipcirkel"/>
-    <g transform="scale(0.5)">
-      <use href="#s-kroon" fill="#C0C0C0" stroke="#808080" stroke-width="4" stroke-linejoin="round"/>
-    </g>
-    <text x="0" y="78" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#808080">Zilver (Kroon)</text>
-  </g>
-
-  <!-- ============================================ -->
-  <!-- Zwart-wit symbolen (10 t/m 24)               -->
-  <!-- ============================================ -->
-
-  <!-- 10. HARTJE BW -->
-  <g transform="translate(308, 480)">
-    <use href="#knipcirkel"/>
-    <g transform="scale(0.5) translate(-250, -260)">
-      <use href="#s-hartje" fill="none" stroke="black" stroke-width="2.5"/>
+  <!-- 7. Ster (Paars) -->
+  <g
+     transform="translate(644.9093,228.28571)"
+     id="g55">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle53"
+       cx="0"
+       cy="0" />
+    <g
+       transform="scale(0.575)"
+       id="g54">
+      <use
+         href="#s-ster"
+         fill="#800080"
+         stroke="#6a0dad"
+         stroke-width="5"
+         stroke-linejoin="round"
+         id="use53" />
     </g>
   </g>
-
-  <!-- 11. BLIKSEM BW -->
-  <g transform="translate(492, 480)">
-    <use href="#knipcirkel"/>
-    <g transform="scale(0.5) translate(-550, -260)">
-      <use href="#s-bliksem" fill="none" stroke="black" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- 8. Klavertje 4 (Groen) -->
+  <g
+     transform="translate(1028.2786,224.56271)"
+     id="g57">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle55"
+       cx="0"
+       cy="0" />
+    <g
+       transform="matrix(0.49150549,0,0,0.480564,-1.0631443,-1.2757732)"
+       id="g56">
+      <use
+         href="#s-klavertje4-harten"
+         fill="#228b22"
+         stroke="#006400"
+         stroke-width="4"
+         id="use55" />
+      <use
+         href="#s-klavertje4-aders"
+         stroke="#006400"
+         stroke-width="3"
+         stroke-linecap="round"
+         id="use56" />
     </g>
   </g>
-
-  <!-- 12. WOLK BW -->
-  <g transform="translate(676, 480)">
-    <use href="#knipcirkel"/>
-    <g transform="scale(0.5) translate(-250, -580)">
-      <use href="#s-wolk" fill="none" stroke="black" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- 9. Kroon (Zilver) -->
+  <g
+     transform="translate(1607.6292,231.17083)"
+     id="g59">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle57"
+       cx="0"
+       cy="0" />
+    <g
+       transform="scale(0.575)"
+       id="g58">
+      <use
+         href="#s-kroon"
+         fill="#c0c0c0"
+         stroke="#808080"
+         stroke-width="4"
+         stroke-linejoin="round"
+         id="use57" />
     </g>
   </g>
-
-  <!-- 13. BLOEM BW -->
-  <g transform="translate(124, 640)">
-    <use href="#knipcirkel"/>
-    <g transform="scale(0.5) translate(-550, -620)">
-      <use href="#s-bloem-petalen" fill="none" stroke="black" stroke-width="2.5"/>
-      <use href="#s-bloem-center" fill="none" stroke="black" stroke-width="2.5"/>
+  <g
+     transform="matrix(1.15,0,0,1.15,137.46723,295.13265)"
+     id="g33-5"
+     style="fill:#ffffff">
+    <!-- Symbool geplaatst in de lege ruimte linksboven van het vierkant -->
+    <g
+       transform="translate(100,100)"
+       id="g32-4"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle31-7"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-125,-130)"
+         id="g31-6"
+         style="fill:#ffffff">
+        <path
+           d="m 250,340 c 110,-70 110,-180 0,-120 -110,-60 -110,50 0,120 z"
+           fill="#dc143c"
+           stroke="#8b0000"
+           stroke-width="4"
+           id="path31-5"
+           style="fill:#ffffff" />
+      </g>
     </g>
   </g>
-
-  <!-- 14. ZON BW -->
-  <g transform="translate(308, 640)">
-    <use href="#knipcirkel"/>
-    <g transform="scale(0.5) translate(-250, -980)">
-      <use href="#s-zon" fill="none" stroke="black" stroke-width="2.5" stroke-linejoin="round"/>
+  <g
+     transform="matrix(1.15,0,0,1.15,727.25381,303.6378)"
+     id="g36-6"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g35-9"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle33-3"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-275,-130)"
+         id="g34-7"
+         style="fill:#ffffff">
+        <polygon
+           points="610,240 550,240 560,160 500,270 550,270 530,360 "
+           fill="#ffe600"
+           stroke="#daa520"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="polygon33-4"
+           style="fill:#ffffff" />
+      </g>
     </g>
   </g>
-
-  <!-- 15. MAAN BW -->
-  <g transform="translate(492, 640)">
-    <use href="#knipcirkel"/>
-    <g transform="scale(0.5) translate(-550, -980)">
-      <use href="#s-maan" fill="none" stroke="black" stroke-width="2.5"/>
+  <g
+     transform="matrix(1.15,0,0,1.15,341.24043,301.71647)"
+     id="g39-5"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g38-2"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle36-5"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.45182923,0,0,0.42800104,-114.1679,-259.97675)"
+         id="g37-4"
+         style="fill:#ffffff">
+        <path
+           d="m 170,660 c -40,0 -40,-80 10,-80 10,-70 120,-70 140,-10 50,-10 60,80 10,90 z"
+           fill="#87ceeb"
+           stroke="#1e90ff"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="path36-7"
+           style="fill:#ffffff" />
+      </g>
     </g>
   </g>
-
-  <!-- 16. STER BW -->
-  <g transform="translate(676, 640)">
-    <use href="#knipcirkel"/>
-    <g transform="scale(0.5)">
-      <use href="#s-ster" fill="none" stroke="black" stroke-width="2.5" stroke-linejoin="round"/>
+  <g
+     transform="matrix(1.15,0,0,1.15,1720.3588,303.87601)"
+     id="g50-3"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g49-1"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle47-4"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-125,-490)"
+         id="g48-9"
+         style="fill:#ffffff">
+        <polygon
+           points="290,1049.3 265.5,1037.9 250,1060 234.5,1037.9 210,1049.3 207.6,1022.4 180.7,1020 192.1,995.5 170,980 192.1,964.5 180.7,940 207.6,937.6 210,910.7 234.5,922.1 250,900 265.5,922.1 290,910.7 292.4,937.6 319.3,940 307.9,964.5 330,980 307.9,995.5 319.3,1020 292.4,1022.4 "
+           fill="#ff8c00"
+           stroke="#ff4500"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="polygon47-2"
+           style="fill:#ffffff" />
+        <circle
+           cx="250"
+           cy="980"
+           r="45"
+           fill="#ff8c00"
+           id="circle48-0"
+           style="fill:#ffffff" />
+      </g>
     </g>
   </g>
-
-  <!-- 17. KLAVERTJE 4 BW -->
-  <g transform="translate(124, 800)">
-    <use href="#knipcirkel"/>
-    <g transform="scale(0.5)">
-      <use href="#s-klavertje4-harten" fill="none" stroke="black" stroke-width="2.5"/>
-      <use href="#s-klavertje4-aders" stroke="black" stroke-width="1.5" stroke-linecap="round"/>
+  <g
+     transform="matrix(1.15,0,0,1.15,1268.8434,307.228)"
+     id="g53-6"
+     style="fill:#ffffff">
+    <g
+       transform="translate(125.14567,98.520843)"
+       id="g52-8"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle50-9"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-275,-490)"
+         id="g51-2"
+         style="fill:#ffffff">
+        <path
+           d="m 590,890 c -130,0 -130,180 0,180 -60,-50 -60,-130 0,-180 z"
+           fill="#32cd32"
+           stroke="#228b22"
+           stroke-width="4"
+           id="path50-6"
+           style="fill:#ffffff" />
+      </g>
     </g>
   </g>
-
-  <!-- 18. KROON BW -->
-  <g transform="translate(308, 800)">
-    <use href="#knipcirkel"/>
-    <g transform="scale(0.5)">
-      <use href="#s-kroon" fill="none" stroke="black" stroke-width="2.5" stroke-linejoin="round"/>
+  <g
+     transform="translate(647.33951,419.63841)"
+     id="g55-6"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle53-4"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="scale(0.575)"
+       id="g54-9"
+       style="fill:#ffffff">
+      <use
+         href="#s-ster"
+         fill="#800080"
+         stroke="#6a0dad"
+         stroke-width="5"
+         stroke-linejoin="round"
+         id="use53-5"
+         style="fill:#ffffff" />
     </g>
   </g>
-
-  <!-- 19. HARTJE BW -->
-  <g transform="translate(492, 800)">
-    <use href="#knipcirkel"/>
-    <g transform="scale(0.5) translate(-250, -260)">
-      <use href="#s-hartje" fill="none" stroke="black" stroke-width="2.5"/>
+  <g
+     transform="translate(1030.7088,415.91541)"
+     id="g57-0"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle55-4"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="matrix(0.49150549,0,0,0.480564,-1.0631443,-1.2757732)"
+       id="g56-8"
+       style="fill:#ffffff">
+      <use
+         href="#s-klavertje4-harten"
+         fill="#228b22"
+         stroke="#006400"
+         stroke-width="4"
+         id="use55-7"
+         style="fill:#ffffff" />
+      <use
+         href="#s-klavertje4-aders"
+         stroke="#006400"
+         stroke-width="3"
+         stroke-linecap="round"
+         id="use56-1"
+         style="fill:#ffffff" />
     </g>
   </g>
-
-  <!-- 20. BLIKSEM BW -->
-  <g transform="translate(676, 800)">
-    <use href="#knipcirkel"/>
-    <g transform="scale(0.5) translate(-550, -260)">
-      <use href="#s-bliksem" fill="none" stroke="black" stroke-width="2.5" stroke-linejoin="round"/>
+  <g
+     transform="translate(1610.0594,422.52353)"
+     id="g59-7"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle57-2"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="scale(0.575)"
+       id="g58-7"
+       style="fill:#ffffff">
+      <use
+         href="#s-kroon"
+         fill="#c0c0c0"
+         stroke="#808080"
+         stroke-width="4"
+         stroke-linejoin="round"
+         id="use57-2"
+         style="fill:#ffffff" />
     </g>
   </g>
-
-  <!-- 21. WOLK BW -->
-  <g transform="translate(124, 960)">
-    <use href="#knipcirkel"/>
-    <g transform="scale(0.5) translate(-250, -580)">
-      <use href="#s-wolk" fill="none" stroke="black" stroke-width="2.5" stroke-linejoin="round"/>
+  <g
+     transform="matrix(1.15,0,0,1.15,1215.3868,414.79404)"
+     id="g51-1-7"
+     style="fill:#ffffff">
+    <circle
+       r="60"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle39-0-6"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="matrix(0.5,0,0,0.5,-275,-310)"
+       id="g50-6-7"
+       style="fill:#ffffff">
+      <g
+         stroke="#ff1493"
+         stroke-width="8"
+         id="g44-3"
+         style="fill:#ffffff">
+        <circle
+           cx="550"
+           cy="575"
+           r="35"
+           fill="#ff69b4"
+           id="circle40-1-6"
+           style="fill:#ffffff" />
+        <circle
+           cx="593"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle41-5-5"
+           style="fill:#ffffff" />
+        <circle
+           cx="576"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle42-9-6"
+           style="fill:#ffffff" />
+        <circle
+           cx="524"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle43-4-3"
+           style="fill:#ffffff" />
+        <circle
+           cx="507"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle44-9-9"
+           style="fill:#ffffff" />
+      </g>
+      <g
+         id="g49-0-4"
+         style="fill:#ffffff">
+        <circle
+           cx="550"
+           cy="575"
+           r="35"
+           fill="#ff69b4"
+           id="circle45-9-8"
+           style="fill:#ffffff" />
+        <circle
+           cx="593"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle46-1"
+           style="fill:#ffffff" />
+        <circle
+           cx="576"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle47-1-2"
+           style="fill:#ffffff" />
+        <circle
+           cx="524"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle48-7-9"
+           style="fill:#ffffff" />
+        <circle
+           cx="507"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle49-3"
+           style="fill:#ffffff" />
+      </g>
+      <circle
+         cx="550"
+         cy="620"
+         r="30"
+         fill="#9932cc"
+         stroke="#800080"
+         stroke-width="3"
+         id="circle50-7-9"
+         style="fill:#ffffff" />
     </g>
   </g>
-
-  <!-- 22. BLOEM BW -->
-  <g transform="translate(308, 960)">
-    <use href="#knipcirkel"/>
-    <g transform="scale(0.5) translate(-550, -620)">
-      <use href="#s-bloem-petalen" fill="none" stroke="black" stroke-width="2.5"/>
-      <use href="#s-bloem-center" fill="none" stroke="black" stroke-width="2.5"/>
+  <g
+     transform="matrix(1.15,0,0,1.15,143.59824,478.79185)"
+     id="g33-5-8"
+     style="fill:#ffffff">
+    <!-- Symbool geplaatst in de lege ruimte linksboven van het vierkant -->
+    <g
+       transform="translate(100,100)"
+       id="g32-4-8"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle31-7-5"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-125,-130)"
+         id="g31-6-0"
+         style="fill:#ffffff">
+        <path
+           d="m 250,340 c 110,-70 110,-180 0,-120 -110,-60 -110,50 0,120 z"
+           fill="#dc143c"
+           stroke="#8b0000"
+           stroke-width="4"
+           id="path31-5-9"
+           style="fill:#ffffff" />
+      </g>
     </g>
   </g>
-
-  <!-- 23. ZON BW -->
-  <g transform="translate(492, 960)">
-    <use href="#knipcirkel"/>
-    <g transform="scale(0.5) translate(-250, -980)">
-      <use href="#s-zon" fill="none" stroke="black" stroke-width="2.5" stroke-linejoin="round"/>
+  <g
+     transform="matrix(1.15,0,0,1.15,733.38482,487.29695)"
+     id="g36-6-6"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g35-9-3"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle33-3-8"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-275,-130)"
+         id="g34-7-5"
+         style="fill:#ffffff">
+        <polygon
+           points="550,240 560,160 500,270 550,270 530,360 610,240 "
+           fill="#ffe600"
+           stroke="#daa520"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="polygon33-4-6"
+           style="fill:#ffffff" />
+      </g>
     </g>
   </g>
-
-  <!-- 24. MAAN BW -->
-  <g transform="translate(676, 960)">
-    <use href="#knipcirkel"/>
-    <g transform="scale(0.5) translate(-550, -980)">
-      <use href="#s-maan" fill="none" stroke="black" stroke-width="2.5"/>
+  <g
+     transform="matrix(1.15,0,0,1.15,347.37144,485.37565)"
+     id="g39-5-1"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g38-2-1"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle36-5-5"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.45182923,0,0,0.42800104,-114.1679,-259.97675)"
+         id="g37-4-9"
+         style="fill:#ffffff">
+        <path
+           d="m 170,660 c -40,0 -40,-80 10,-80 10,-70 120,-70 140,-10 50,-10 60,80 10,90 z"
+           fill="#87ceeb"
+           stroke="#1e90ff"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="path36-7-8"
+           style="fill:#ffffff" />
+      </g>
     </g>
   </g>
-
+  <g
+     transform="matrix(1.15,0,0,1.15,1726.4898,487.53515)"
+     id="g50-3-4"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g49-1-8"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle47-4-1"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-125,-490)"
+         id="g48-9-0"
+         style="fill:#ffffff">
+        <polygon
+           points="192.1,995.5 170,980 192.1,964.5 180.7,940 207.6,937.6 210,910.7 234.5,922.1 250,900 265.5,922.1 290,910.7 292.4,937.6 319.3,940 307.9,964.5 330,980 307.9,995.5 319.3,1020 292.4,1022.4 290,1049.3 265.5,1037.9 250,1060 234.5,1037.9 210,1049.3 207.6,1022.4 180.7,1020 "
+           fill="#ff8c00"
+           stroke="#ff4500"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="polygon47-2-3"
+           style="fill:#ffffff" />
+        <circle
+           cx="250"
+           cy="980"
+           r="45"
+           fill="#ff8c00"
+           id="circle48-0-0"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1274.9744,490.88715)"
+     id="g53-6-4"
+     style="fill:#ffffff">
+    <g
+       transform="translate(125.14567,98.520843)"
+       id="g52-8-4"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle50-9-4"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-275,-490)"
+         id="g51-2-4"
+         style="fill:#ffffff">
+        <path
+           d="m 590,890 c -130,0 -130,180 0,180 -60,-50 -60,-130 0,-180 z"
+           fill="#32cd32"
+           stroke="#228b22"
+           stroke-width="4"
+           id="path50-6-7"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="translate(653.47052,603.29755)"
+     id="g55-6-6"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle53-4-3"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="scale(0.575)"
+       id="g54-9-1"
+       style="fill:#ffffff">
+      <use
+         href="#s-ster"
+         fill="#800080"
+         stroke="#6a0dad"
+         stroke-width="5"
+         stroke-linejoin="round"
+         id="use53-5-7"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="translate(1036.8398,599.57455)"
+     id="g57-0-5"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle55-4-9"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="matrix(0.49150549,0,0,0.480564,-1.0631443,-1.2757732)"
+       id="g56-8-6"
+       style="fill:#ffffff">
+      <use
+         href="#s-klavertje4-harten"
+         fill="#228b22"
+         stroke="#006400"
+         stroke-width="4"
+         id="use55-7-2"
+         style="fill:#ffffff" />
+      <use
+         href="#s-klavertje4-aders"
+         stroke="#006400"
+         stroke-width="3"
+         stroke-linecap="round"
+         id="use56-1-1"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="translate(1616.1904,606.18275)"
+     id="g59-7-7"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle57-2-8"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="scale(0.575)"
+       id="g58-7-5"
+       style="fill:#ffffff">
+      <use
+         href="#s-kroon"
+         fill="#c0c0c0"
+         stroke="#808080"
+         stroke-width="4"
+         stroke-linejoin="round"
+         id="use57-2-7"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1221.5178,598.45325)"
+     id="g51-1-7-4"
+     style="fill:#ffffff">
+    <circle
+       r="60"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle39-0-6-1"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="matrix(0.5,0,0,0.5,-275,-310)"
+       id="g50-6-7-8"
+       style="fill:#ffffff">
+      <g
+         stroke="#ff1493"
+         stroke-width="8"
+         id="g44-3-5"
+         style="fill:#ffffff">
+        <circle
+           cx="550"
+           cy="575"
+           r="35"
+           fill="#ff69b4"
+           id="circle40-1-6-9"
+           style="fill:#ffffff" />
+        <circle
+           cx="593"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle41-5-5-7"
+           style="fill:#ffffff" />
+        <circle
+           cx="576"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle42-9-6-5"
+           style="fill:#ffffff" />
+        <circle
+           cx="524"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle43-4-3-3"
+           style="fill:#ffffff" />
+        <circle
+           cx="507"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle44-9-9-8"
+           style="fill:#ffffff" />
+      </g>
+      <g
+         id="g49-0-4-8"
+         style="fill:#ffffff">
+        <circle
+           cx="550"
+           cy="575"
+           r="35"
+           fill="#ff69b4"
+           id="circle45-9-8-3"
+           style="fill:#ffffff" />
+        <circle
+           cx="593"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle46-1-1"
+           style="fill:#ffffff" />
+        <circle
+           cx="576"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle47-1-2-8"
+           style="fill:#ffffff" />
+        <circle
+           cx="524"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle48-7-9-9"
+           style="fill:#ffffff" />
+        <circle
+           cx="507"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle49-3-6"
+           style="fill:#ffffff" />
+      </g>
+      <circle
+         cx="550"
+         cy="620"
+         r="30"
+         fill="#9932cc"
+         stroke="#800080"
+         stroke-width="3"
+         id="circle50-7-9-4"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,151.48162,668.2087)"
+     id="g33-5-3"
+     style="fill:#ffffff">
+    <!-- Symbool geplaatst in de lege ruimte linksboven van het vierkant -->
+    <g
+       transform="translate(100,100)"
+       id="g32-4-86"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle31-7-0"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-125,-130)"
+         id="g31-6-4"
+         style="fill:#ffffff">
+        <path
+           d="m 250,340 c 110,-70 110,-180 0,-120 -110,-60 -110,50 0,120 z"
+           fill="#dc143c"
+           stroke="#8b0000"
+           stroke-width="4"
+           id="path31-5-8"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,741.2682,676.71385)"
+     id="g36-6-8"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g35-9-8"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle33-3-9"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-275,-130)"
+         id="g34-7-7"
+         style="fill:#ffffff">
+        <polygon
+           points="550,240 560,160 500,270 550,270 530,360 610,240 "
+           fill="#ffe600"
+           stroke="#daa520"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="polygon33-4-7"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,355.25482,674.79252)"
+     id="g39-5-6"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g38-2-4"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle36-5-3"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.45182923,0,0,0.42800104,-114.1679,-259.97675)"
+         id="g37-4-0"
+         style="fill:#ffffff">
+        <path
+           d="m 170,660 c -40,0 -40,-80 10,-80 10,-70 120,-70 140,-10 50,-10 60,80 10,90 z"
+           fill="#87ceeb"
+           stroke="#1e90ff"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="path36-7-3"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1734.3732,676.95206)"
+     id="g50-3-0"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g49-1-9"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle47-4-2"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-125,-490)"
+         id="g48-9-5"
+         style="fill:#ffffff">
+        <polygon
+           points="192.1,995.5 170,980 192.1,964.5 180.7,940 207.6,937.6 210,910.7 234.5,922.1 250,900 265.5,922.1 290,910.7 292.4,937.6 319.3,940 307.9,964.5 330,980 307.9,995.5 319.3,1020 292.4,1022.4 290,1049.3 265.5,1037.9 250,1060 234.5,1037.9 210,1049.3 207.6,1022.4 180.7,1020 "
+           fill="#ff8c00"
+           stroke="#ff4500"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="polygon47-2-4"
+           style="fill:#ffffff" />
+        <circle
+           cx="250"
+           cy="980"
+           r="45"
+           fill="#ff8c00"
+           id="circle48-0-05"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1282.8578,680.30405)"
+     id="g53-6-9"
+     style="fill:#ffffff">
+    <g
+       transform="translate(125.14567,98.520843)"
+       id="g52-8-46"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle50-9-9"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-275,-490)"
+         id="g51-2-2"
+         style="fill:#ffffff">
+        <path
+           d="m 590,890 c -130,0 -130,180 0,180 -60,-50 -60,-130 0,-180 z"
+           fill="#32cd32"
+           stroke="#228b22"
+           stroke-width="4"
+           id="path50-6-2"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="translate(661.3539,792.71446)"
+     id="g55-6-4"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle53-4-7"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="scale(0.575)"
+       id="g54-9-7"
+       style="fill:#ffffff">
+      <use
+         href="#s-ster"
+         fill="#800080"
+         stroke="#6a0dad"
+         stroke-width="5"
+         stroke-linejoin="round"
+         id="use53-5-5"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="translate(1044.7232,788.99146)"
+     id="g57-0-4"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle55-4-8"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="matrix(0.49150549,0,0,0.480564,-1.0631443,-1.2757732)"
+       id="g56-8-1"
+       style="fill:#ffffff">
+      <use
+         href="#s-klavertje4-harten"
+         fill="#228b22"
+         stroke="#006400"
+         stroke-width="4"
+         id="use55-7-28"
+         style="fill:#ffffff" />
+      <use
+         href="#s-klavertje4-aders"
+         stroke="#006400"
+         stroke-width="3"
+         stroke-linecap="round"
+         id="use56-1-9"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="translate(1624.0738,795.59958)"
+     id="g59-7-3"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle57-2-6"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="scale(0.575)"
+       id="g58-7-8"
+       style="fill:#ffffff">
+      <use
+         href="#s-kroon"
+         fill="#c0c0c0"
+         stroke="#808080"
+         stroke-width="4"
+         stroke-linejoin="round"
+         id="use57-2-0"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1229.4012,787.87009)"
+     id="g51-1-7-2"
+     style="fill:#ffffff">
+    <circle
+       r="60"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle39-0-6-10"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="matrix(0.5,0,0,0.5,-275,-310)"
+       id="g50-6-7-5"
+       style="fill:#ffffff">
+      <g
+         stroke="#ff1493"
+         stroke-width="8"
+         id="g44-3-1"
+         style="fill:#ffffff">
+        <circle
+           cx="550"
+           cy="575"
+           r="35"
+           fill="#ff69b4"
+           id="circle40-1-6-1"
+           style="fill:#ffffff" />
+        <circle
+           cx="593"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle41-5-5-0"
+           style="fill:#ffffff" />
+        <circle
+           cx="576"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle42-9-6-8"
+           style="fill:#ffffff" />
+        <circle
+           cx="524"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle43-4-3-5"
+           style="fill:#ffffff" />
+        <circle
+           cx="507"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle44-9-9-0"
+           style="fill:#ffffff" />
+      </g>
+      <g
+         id="g49-0-4-6"
+         style="fill:#ffffff">
+        <circle
+           cx="550"
+           cy="575"
+           r="35"
+           fill="#ff69b4"
+           id="circle45-9-8-4"
+           style="fill:#ffffff" />
+        <circle
+           cx="593"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle46-1-6"
+           style="fill:#ffffff" />
+        <circle
+           cx="576"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle47-1-2-2"
+           style="fill:#ffffff" />
+        <circle
+           cx="524"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle48-7-9-5"
+           style="fill:#ffffff" />
+        <circle
+           cx="507"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle49-3-8"
+           style="fill:#ffffff" />
+      </g>
+      <circle
+         cx="550"
+         cy="620"
+         r="30"
+         fill="#9932cc"
+         stroke="#800080"
+         stroke-width="3"
+         id="circle50-7-9-6"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,151.12573,854.54654)"
+     id="g33-5-4"
+     style="fill:#ffffff">
+    <!-- Symbool geplaatst in de lege ruimte linksboven van het vierkant -->
+    <g
+       transform="translate(100,100)"
+       id="g32-4-7"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle31-7-2"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-125,-130)"
+         id="g31-6-40"
+         style="fill:#ffffff">
+        <path
+           d="m 250,340 c 110,-70 110,-180 0,-120 -110,-60 -110,50 0,120 z"
+           fill="#dc143c"
+           stroke="#8b0000"
+           stroke-width="4"
+           id="path31-5-6"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,740.91231,863.05169)"
+     id="g36-6-2"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g35-9-9"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle33-3-90"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-275,-130)"
+         id="g34-7-8"
+         style="fill:#ffffff">
+        <polygon
+           points="550,240 560,160 500,270 550,270 530,360 610,240 "
+           fill="#ffe600"
+           stroke="#daa520"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="polygon33-4-1"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,354.89893,861.13036)"
+     id="g39-5-3"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g38-2-11"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle36-5-0"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.45182923,0,0,0.42800104,-114.1679,-259.97675)"
+         id="g37-4-3"
+         style="fill:#ffffff">
+        <path
+           d="m 170,660 c -40,0 -40,-80 10,-80 10,-70 120,-70 140,-10 50,-10 60,80 10,90 z"
+           fill="#87ceeb"
+           stroke="#1e90ff"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="path36-7-4"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1734.0173,863.2899)"
+     id="g50-3-03"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g49-1-91"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle47-4-9"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-125,-490)"
+         id="g48-9-6"
+         style="fill:#ffffff">
+        <polygon
+           points="192.1,995.5 170,980 192.1,964.5 180.7,940 207.6,937.6 210,910.7 234.5,922.1 250,900 265.5,922.1 290,910.7 292.4,937.6 319.3,940 307.9,964.5 330,980 307.9,995.5 319.3,1020 292.4,1022.4 290,1049.3 265.5,1037.9 250,1060 234.5,1037.9 210,1049.3 207.6,1022.4 180.7,1020 "
+           fill="#ff8c00"
+           stroke="#ff4500"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="polygon47-2-9"
+           style="fill:#ffffff" />
+        <circle
+           cx="250"
+           cy="980"
+           r="45"
+           fill="#ff8c00"
+           id="circle48-0-3"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1282.5019,866.64189)"
+     id="g53-6-3"
+     style="fill:#ffffff">
+    <g
+       transform="translate(125.14567,98.520843)"
+       id="g52-8-8"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle50-9-0"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-275,-490)"
+         id="g51-2-5"
+         style="fill:#ffffff">
+        <path
+           d="m 590,890 c -130,0 -130,180 0,180 -60,-50 -60,-130 0,-180 z"
+           fill="#32cd32"
+           stroke="#228b22"
+           stroke-width="4"
+           id="path50-6-6"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="translate(660.99801,979.05234)"
+     id="g55-6-64"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle53-4-0"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="scale(0.575)"
+       id="g54-9-0"
+       style="fill:#ffffff">
+      <use
+         href="#s-ster"
+         fill="#800080"
+         stroke="#6a0dad"
+         stroke-width="5"
+         stroke-linejoin="round"
+         id="use53-5-4"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="translate(1044.3673,975.32934)"
+     id="g57-0-6"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle55-4-2"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="matrix(0.49150549,0,0,0.480564,-1.0631443,-1.2757732)"
+       id="g56-8-67"
+       style="fill:#ffffff">
+      <use
+         href="#s-klavertje4-harten"
+         fill="#228b22"
+         stroke="#006400"
+         stroke-width="4"
+         id="use55-7-5"
+         style="fill:#ffffff" />
+      <use
+         href="#s-klavertje4-aders"
+         stroke="#006400"
+         stroke-width="3"
+         stroke-linecap="round"
+         id="use56-1-6"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="translate(1623.7179,981.93744)"
+     id="g59-7-9"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle57-2-87"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="scale(0.575)"
+       id="g58-7-2"
+       style="fill:#ffffff">
+      <use
+         href="#s-kroon"
+         fill="#c0c0c0"
+         stroke="#808080"
+         stroke-width="4"
+         stroke-linejoin="round"
+         id="use57-2-8"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1229.0453,974.20794)"
+     id="g51-1-7-29"
+     style="fill:#ffffff">
+    <circle
+       r="60"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle39-0-6-9"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="matrix(0.5,0,0,0.5,-275,-310)"
+       id="g50-6-7-6"
+       style="fill:#ffffff">
+      <g
+         stroke="#ff1493"
+         stroke-width="8"
+         id="g44-3-0"
+         style="fill:#ffffff">
+        <circle
+           cx="550"
+           cy="575"
+           r="35"
+           fill="#ff69b4"
+           id="circle40-1-6-2"
+           style="fill:#ffffff" />
+        <circle
+           cx="593"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle41-5-5-76"
+           style="fill:#ffffff" />
+        <circle
+           cx="576"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle42-9-6-1"
+           style="fill:#ffffff" />
+        <circle
+           cx="524"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle43-4-3-32"
+           style="fill:#ffffff" />
+        <circle
+           cx="507"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle44-9-9-1"
+           style="fill:#ffffff" />
+      </g>
+      <g
+         id="g49-0-4-5"
+         style="fill:#ffffff">
+        <circle
+           cx="550"
+           cy="575"
+           r="35"
+           fill="#ff69b4"
+           id="circle45-9-8-9"
+           style="fill:#ffffff" />
+        <circle
+           cx="593"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle46-1-9"
+           style="fill:#ffffff" />
+        <circle
+           cx="576"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle47-1-2-1"
+           style="fill:#ffffff" />
+        <circle
+           cx="524"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle48-7-9-4"
+           style="fill:#ffffff" />
+        <circle
+           cx="507"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle49-3-9"
+           style="fill:#ffffff" />
+      </g>
+      <circle
+         cx="550"
+         cy="620"
+         r="30"
+         fill="#9932cc"
+         stroke="#800080"
+         stroke-width="3"
+         id="circle50-7-9-1"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,157.15817,1039.0025)"
+     id="g33-5-5"
+     style="fill:#ffffff">
+    <!-- Symbool geplaatst in de lege ruimte linksboven van het vierkant -->
+    <g
+       transform="translate(100,100)"
+       id="g32-4-87"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle31-7-04"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-125,-130)"
+         id="g31-6-8"
+         style="fill:#ffffff">
+        <path
+           d="m 250,340 c 110,-70 110,-180 0,-120 -110,-60 -110,50 0,120 z"
+           fill="#dc143c"
+           stroke="#8b0000"
+           stroke-width="4"
+           id="path31-5-0"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,746.94475,1047.5076)"
+     id="g36-6-4"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g35-9-2"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle33-3-96"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-275,-130)"
+         id="g34-7-1"
+         style="fill:#ffffff">
+        <polygon
+           points="550,240 560,160 500,270 550,270 530,360 610,240 "
+           fill="#ffe600"
+           stroke="#daa520"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="polygon33-4-0"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,360.93137,1045.5863)"
+     id="g39-5-4"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g38-2-2"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle36-5-2"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.45182923,0,0,0.42800104,-114.1679,-259.97675)"
+         id="g37-4-2"
+         style="fill:#ffffff">
+        <path
+           d="m 170,660 c -40,0 -40,-80 10,-80 10,-70 120,-70 140,-10 50,-10 60,80 10,90 z"
+           fill="#87ceeb"
+           stroke="#1e90ff"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="path36-7-0"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1740.0497,1047.7458)"
+     id="g50-3-5"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g49-1-5"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle47-4-29"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-125,-490)"
+         id="g48-9-02"
+         style="fill:#ffffff">
+        <polygon
+           points="192.1,995.5 170,980 192.1,964.5 180.7,940 207.6,937.6 210,910.7 234.5,922.1 250,900 265.5,922.1 290,910.7 292.4,937.6 319.3,940 307.9,964.5 330,980 307.9,995.5 319.3,1020 292.4,1022.4 290,1049.3 265.5,1037.9 250,1060 234.5,1037.9 210,1049.3 207.6,1022.4 180.7,1020 "
+           fill="#ff8c00"
+           stroke="#ff4500"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="polygon47-2-8"
+           style="fill:#ffffff" />
+        <circle
+           cx="250"
+           cy="980"
+           r="45"
+           fill="#ff8c00"
+           id="circle48-0-38"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1288.5343,1051.0978)"
+     id="g53-6-0"
+     style="fill:#ffffff">
+    <g
+       transform="translate(125.14567,98.520843)"
+       id="g52-8-40"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle50-9-91"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-275,-490)"
+         id="g51-2-9"
+         style="fill:#ffffff">
+        <path
+           d="m 590,890 c -130,0 -130,180 0,180 -60,-50 -60,-130 0,-180 z"
+           fill="#32cd32"
+           stroke="#228b22"
+           stroke-width="4"
+           id="path50-6-62"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="translate(667.03045,1163.5082)"
+     id="g55-6-5"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle53-4-4"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="scale(0.575)"
+       id="g54-9-4"
+       style="fill:#ffffff">
+      <use
+         href="#s-ster"
+         fill="#800080"
+         stroke="#6a0dad"
+         stroke-width="5"
+         stroke-linejoin="round"
+         id="use53-5-9"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="translate(1050.3997,1159.7852)"
+     id="g57-0-9"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle55-4-3"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="matrix(0.49150549,0,0,0.480564,-1.0631443,-1.2757732)"
+       id="g56-8-60"
+       style="fill:#ffffff">
+      <use
+         href="#s-klavertje4-harten"
+         fill="#228b22"
+         stroke="#006400"
+         stroke-width="4"
+         id="use55-7-50"
+         style="fill:#ffffff" />
+      <use
+         href="#s-klavertje4-aders"
+         stroke="#006400"
+         stroke-width="3"
+         stroke-linecap="round"
+         id="use56-1-2"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="translate(1629.7503,1166.3934)"
+     id="g59-7-94"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle57-2-3"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="scale(0.575)"
+       id="g58-7-51"
+       style="fill:#ffffff">
+      <use
+         href="#s-kroon"
+         fill="#c0c0c0"
+         stroke="#808080"
+         stroke-width="4"
+         stroke-linejoin="round"
+         id="use57-2-74"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1235.0777,1158.6639)"
+     id="g51-1-7-3"
+     style="fill:#ffffff">
+    <circle
+       r="60"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle39-0-6-14"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="matrix(0.5,0,0,0.5,-275,-310)"
+       id="g50-6-7-69"
+       style="fill:#ffffff">
+      <g
+         stroke="#ff1493"
+         stroke-width="8"
+         id="g44-3-4"
+         style="fill:#ffffff">
+        <circle
+           cx="550"
+           cy="575"
+           r="35"
+           fill="#ff69b4"
+           id="circle40-1-6-22"
+           style="fill:#ffffff" />
+        <circle
+           cx="593"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle41-5-5-6"
+           style="fill:#ffffff" />
+        <circle
+           cx="576"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle42-9-6-4"
+           style="fill:#ffffff" />
+        <circle
+           cx="524"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle43-4-3-1"
+           style="fill:#ffffff" />
+        <circle
+           cx="507"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle44-9-9-2"
+           style="fill:#ffffff" />
+      </g>
+      <g
+         id="g49-0-4-88"
+         style="fill:#ffffff">
+        <circle
+           cx="550"
+           cy="575"
+           r="35"
+           fill="#ff69b4"
+           id="circle45-9-8-92"
+           style="fill:#ffffff" />
+        <circle
+           cx="593"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle46-1-8"
+           style="fill:#ffffff" />
+        <circle
+           cx="576"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle47-1-2-88"
+           style="fill:#ffffff" />
+        <circle
+           cx="524"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle48-7-9-6"
+           style="fill:#ffffff" />
+        <circle
+           cx="507"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle49-3-83"
+           style="fill:#ffffff" />
+      </g>
+      <circle
+         cx="550"
+         cy="620"
+         r="30"
+         fill="#9932cc"
+         stroke="#800080"
+         stroke-width="3"
+         id="circle50-7-9-8"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,152.61693,1216.6428)"
+     id="g33-5-38"
+     style="fill:#ffffff">
+    <!-- Symbool geplaatst in de lege ruimte linksboven van het vierkant -->
+    <g
+       transform="translate(100,100)"
+       id="g32-4-0"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle31-7-4"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-125,-130)"
+         id="g31-6-7"
+         style="fill:#ffffff">
+        <path
+           d="m 250,340 c 110,-70 110,-180 0,-120 -110,-60 -110,50 0,120 z"
+           fill="#dc143c"
+           stroke="#8b0000"
+           stroke-width="4"
+           id="path31-5-68"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,742.40351,1225.1479)"
+     id="g36-6-9"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g35-9-0"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle33-3-6"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-275,-130)"
+         id="g34-7-87"
+         style="fill:#ffffff">
+        <polygon
+           points="550,240 560,160 500,270 550,270 530,360 610,240 "
+           fill="#ffe600"
+           stroke="#daa520"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="polygon33-4-9"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,356.39013,1223.2266)"
+     id="g39-5-0"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g38-2-3"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle36-5-33"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.45182923,0,0,0.42800104,-114.1679,-259.97675)"
+         id="g37-4-7"
+         style="fill:#ffffff">
+        <path
+           d="m 170,660 c -40,0 -40,-80 10,-80 10,-70 120,-70 140,-10 50,-10 60,80 10,90 z"
+           fill="#87ceeb"
+           stroke="#1e90ff"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="path36-7-32"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1735.5085,1225.3861)"
+     id="g50-3-6"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g49-1-52"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle47-4-6"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-125,-490)"
+         id="g48-9-58"
+         style="fill:#ffffff">
+        <polygon
+           points="192.1,995.5 170,980 192.1,964.5 180.7,940 207.6,937.6 210,910.7 234.5,922.1 250,900 265.5,922.1 290,910.7 292.4,937.6 319.3,940 307.9,964.5 330,980 307.9,995.5 319.3,1020 292.4,1022.4 290,1049.3 265.5,1037.9 250,1060 234.5,1037.9 210,1049.3 207.6,1022.4 180.7,1020 "
+           fill="#ff8c00"
+           stroke="#ff4500"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="polygon47-2-7"
+           style="fill:#ffffff" />
+        <circle
+           cx="250"
+           cy="980"
+           r="45"
+           fill="#ff8c00"
+           id="circle48-0-9"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1283.9931,1228.7381)"
+     id="g53-6-6"
+     style="fill:#ffffff">
+    <g
+       transform="translate(125.14567,98.520843)"
+       id="g52-8-0"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle50-9-41"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-275,-490)"
+         id="g51-2-0"
+         style="fill:#ffffff">
+        <path
+           d="m 590,890 c -130,0 -130,180 0,180 -60,-50 -60,-130 0,-180 z"
+           fill="#32cd32"
+           stroke="#228b22"
+           stroke-width="4"
+           id="path50-6-4"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="translate(662.48921,1341.1485)"
+     id="g55-6-8"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle53-4-70"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="scale(0.575)"
+       id="g54-9-8"
+       style="fill:#ffffff">
+      <use
+         href="#s-ster"
+         fill="#800080"
+         stroke="#6a0dad"
+         stroke-width="5"
+         stroke-linejoin="round"
+         id="use53-5-6"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="translate(1045.8585,1337.4255)"
+     id="g57-0-2"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle55-4-4"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="matrix(0.49150549,0,0,0.480564,-1.0631443,-1.2757732)"
+       id="g56-8-7"
+       style="fill:#ffffff">
+      <use
+         href="#s-klavertje4-harten"
+         fill="#228b22"
+         stroke="#006400"
+         stroke-width="4"
+         id="use55-7-9"
+         style="fill:#ffffff" />
+      <use
+         href="#s-klavertje4-aders"
+         stroke="#006400"
+         stroke-width="3"
+         stroke-linecap="round"
+         id="use56-1-3"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="translate(1625.2091,1344.0336)"
+     id="g59-7-92"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle57-2-83"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="scale(0.575)"
+       id="g58-7-0"
+       style="fill:#ffffff">
+      <use
+         href="#s-kroon"
+         fill="#c0c0c0"
+         stroke="#808080"
+         stroke-width="4"
+         stroke-linejoin="round"
+         id="use57-2-1"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1230.5365,1336.3041)"
+     id="g51-1-7-7"
+     style="fill:#ffffff">
+    <circle
+       r="60"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle39-0-6-8"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="matrix(0.5,0,0,0.5,-275,-310)"
+       id="g50-6-7-9"
+       style="fill:#ffffff">
+      <g
+         stroke="#ff1493"
+         stroke-width="8"
+         id="g44-3-15"
+         style="fill:#ffffff">
+        <circle
+           cx="550"
+           cy="575"
+           r="35"
+           fill="#ff69b4"
+           id="circle40-1-6-4"
+           style="fill:#ffffff" />
+        <circle
+           cx="593"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle41-5-5-9"
+           style="fill:#ffffff" />
+        <circle
+           cx="576"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle42-9-6-2"
+           style="fill:#ffffff" />
+        <circle
+           cx="524"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle43-4-3-57"
+           style="fill:#ffffff" />
+        <circle
+           cx="507"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle44-9-9-4"
+           style="fill:#ffffff" />
+      </g>
+      <g
+         id="g49-0-4-9"
+         style="fill:#ffffff">
+        <circle
+           cx="550"
+           cy="575"
+           r="35"
+           fill="#ff69b4"
+           id="circle45-9-8-94"
+           style="fill:#ffffff" />
+        <circle
+           cx="593"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle46-1-5"
+           style="fill:#ffffff" />
+        <circle
+           cx="576"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle47-1-2-9"
+           style="fill:#ffffff" />
+        <circle
+           cx="524"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle48-7-9-3"
+           style="fill:#ffffff" />
+        <circle
+           cx="507"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle49-3-5"
+           style="fill:#ffffff" />
+      </g>
+      <circle
+         cx="550"
+         cy="620"
+         r="30"
+         fill="#9932cc"
+         stroke="#800080"
+         stroke-width="3"
+         id="circle50-7-9-7"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,141.28896,1399.2131)"
+     id="g33-5-1"
+     style="fill:#ffffff">
+    <!-- Symbool geplaatst in de lege ruimte linksboven van het vierkant -->
+    <g
+       transform="translate(100,100)"
+       id="g32-4-9"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle31-7-9"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-125,-130)"
+         id="g31-6-78"
+         style="fill:#ffffff">
+        <path
+           d="m 250,340 c 110,-70 110,-180 0,-120 -110,-60 -110,50 0,120 z"
+           fill="#dc143c"
+           stroke="#8b0000"
+           stroke-width="4"
+           id="path31-5-2"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,731.07554,1407.7182)"
+     id="g36-6-5"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g35-9-34"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle33-3-902"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-275,-130)"
+         id="g34-7-0"
+         style="fill:#ffffff">
+        <polygon
+           points="550,240 560,160 500,270 550,270 530,360 610,240 "
+           fill="#ffe600"
+           stroke="#daa520"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="polygon33-4-19"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,345.06216,1405.7969)"
+     id="g39-5-62"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g38-2-12"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle36-5-07"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.45182923,0,0,0.42800104,-114.1679,-259.97675)"
+         id="g37-4-31"
+         style="fill:#ffffff">
+        <path
+           d="m 170,660 c -40,0 -40,-80 10,-80 10,-70 120,-70 140,-10 50,-10 60,80 10,90 z"
+           fill="#87ceeb"
+           stroke="#1e90ff"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="path36-7-1"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1724.1805,1407.9564)"
+     id="g50-3-9"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g49-1-0"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle47-4-5"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-125,-490)"
+         id="g48-9-67"
+         style="fill:#ffffff">
+        <polygon
+           points="192.1,995.5 170,980 192.1,964.5 180.7,940 207.6,937.6 210,910.7 234.5,922.1 250,900 265.5,922.1 290,910.7 292.4,937.6 319.3,940 307.9,964.5 330,980 307.9,995.5 319.3,1020 292.4,1022.4 290,1049.3 265.5,1037.9 250,1060 234.5,1037.9 210,1049.3 207.6,1022.4 180.7,1020 "
+           fill="#ff8c00"
+           stroke="#ff4500"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="polygon47-2-74"
+           style="fill:#ffffff" />
+        <circle
+           cx="250"
+           cy="980"
+           r="45"
+           fill="#ff8c00"
+           id="circle48-0-06"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1272.6651,1411.3084)"
+     id="g53-6-47"
+     style="fill:#ffffff">
+    <g
+       transform="translate(125.14567,98.520843)"
+       id="g52-8-48"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle50-9-5"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-275,-490)"
+         id="g51-2-8"
+         style="fill:#ffffff">
+        <path
+           d="m 590,890 c -130,0 -130,180 0,180 -60,-50 -60,-130 0,-180 z"
+           fill="#32cd32"
+           stroke="#228b22"
+           stroke-width="4"
+           id="path50-6-26"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="translate(651.16124,1523.7188)"
+     id="g55-6-0"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle53-4-6"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="scale(0.575)"
+       id="g54-9-6"
+       style="fill:#ffffff">
+      <use
+         href="#s-ster"
+         fill="#800080"
+         stroke="#6a0dad"
+         stroke-width="5"
+         stroke-linejoin="round"
+         id="use53-5-46"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="translate(1034.5305,1519.9958)"
+     id="g57-0-28"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle55-4-96"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="matrix(0.49150549,0,0,0.480564,-1.0631443,-1.2757732)"
+       id="g56-8-0"
+       style="fill:#ffffff">
+      <use
+         href="#s-klavertje4-harten"
+         fill="#228b22"
+         stroke="#006400"
+         stroke-width="4"
+         id="use55-7-7"
+         style="fill:#ffffff" />
+      <use
+         href="#s-klavertje4-aders"
+         stroke="#006400"
+         stroke-width="3"
+         stroke-linecap="round"
+         id="use56-1-0"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="translate(1613.8811,1526.6039)"
+     id="g59-7-1"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle57-2-0"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="scale(0.575)"
+       id="g58-7-1"
+       style="fill:#ffffff">
+      <use
+         href="#s-kroon"
+         fill="#c0c0c0"
+         stroke="#808080"
+         stroke-width="4"
+         stroke-linejoin="round"
+         id="use57-2-3"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1219.2085,1518.8744)"
+     id="g51-1-7-77"
+     style="fill:#ffffff">
+    <circle
+       r="60"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle39-0-6-2"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="matrix(0.5,0,0,0.5,-275,-310)"
+       id="g50-6-7-64"
+       style="fill:#ffffff">
+      <g
+         stroke="#ff1493"
+         stroke-width="8"
+         id="g44-3-52"
+         style="fill:#ffffff">
+        <circle
+           cx="550"
+           cy="575"
+           r="35"
+           fill="#ff69b4"
+           id="circle40-1-6-0"
+           style="fill:#ffffff" />
+        <circle
+           cx="593"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle41-5-5-2"
+           style="fill:#ffffff" />
+        <circle
+           cx="576"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle42-9-6-9"
+           style="fill:#ffffff" />
+        <circle
+           cx="524"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle43-4-3-0"
+           style="fill:#ffffff" />
+        <circle
+           cx="507"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle44-9-9-9"
+           style="fill:#ffffff" />
+      </g>
+      <g
+         id="g49-0-4-94"
+         style="fill:#ffffff">
+        <circle
+           cx="550"
+           cy="575"
+           r="35"
+           fill="#ff69b4"
+           id="circle45-9-8-5"
+           style="fill:#ffffff" />
+        <circle
+           cx="593"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle46-1-10"
+           style="fill:#ffffff" />
+        <circle
+           cx="576"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle47-1-2-3"
+           style="fill:#ffffff" />
+        <circle
+           cx="524"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle48-7-9-7"
+           style="fill:#ffffff" />
+        <circle
+           cx="507"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle49-3-88"
+           style="fill:#ffffff" />
+      </g>
+      <circle
+         cx="550"
+         cy="620"
+         r="30"
+         fill="#9932cc"
+         stroke="#800080"
+         stroke-width="3"
+         id="circle50-7-9-60"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,140.91181,1572.3295)"
+     id="g33-5-7"
+     style="fill:#ffffff">
+    <!-- Symbool geplaatst in de lege ruimte linksboven van het vierkant -->
+    <g
+       transform="translate(100,100)"
+       id="g32-4-6"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle31-7-09"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-125,-130)"
+         id="g31-6-75"
+         style="fill:#ffffff">
+        <path
+           d="m 250,340 c 110,-70 110,-180 0,-120 -110,-60 -110,50 0,120 z"
+           fill="#dc143c"
+           stroke="#8b0000"
+           stroke-width="4"
+           id="path31-5-97"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,730.69839,1580.8346)"
+     id="g36-6-85"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g35-9-33"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle33-3-83"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-275,-130)"
+         id="g34-7-79"
+         style="fill:#ffffff">
+        <polygon
+           points="610,240 550,240 560,160 500,270 550,270 530,360 "
+           fill="#ffe600"
+           stroke="#daa520"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="polygon33-4-3"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,344.68501,1578.9133)"
+     id="g39-5-7"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g38-2-8"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle36-5-7"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.45182923,0,0,0.42800104,-114.1679,-259.97675)"
+         id="g37-4-4"
+         style="fill:#ffffff">
+        <path
+           d="m 170,660 c -40,0 -40,-80 10,-80 10,-70 120,-70 140,-10 50,-10 60,80 10,90 z"
+           fill="#87ceeb"
+           stroke="#1e90ff"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="path36-7-19"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1723.8034,1581.0728)"
+     id="g50-3-09"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g49-1-88"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle47-4-58"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-125,-490)"
+         id="g48-9-4"
+         style="fill:#ffffff">
+        <polygon
+           points="180.7,1020 192.1,995.5 170,980 192.1,964.5 180.7,940 207.6,937.6 210,910.7 234.5,922.1 250,900 265.5,922.1 290,910.7 292.4,937.6 319.3,940 307.9,964.5 330,980 307.9,995.5 319.3,1020 292.4,1022.4 290,1049.3 265.5,1037.9 250,1060 234.5,1037.9 210,1049.3 207.6,1022.4 "
+           fill="#ff8c00"
+           stroke="#ff4500"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="polygon47-2-37"
+           style="fill:#ffffff" />
+        <circle
+           cx="250"
+           cy="980"
+           r="45"
+           fill="#ff8c00"
+           id="circle48-0-1"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1272.288,1584.4248)"
+     id="g53-6-38"
+     style="fill:#ffffff">
+    <g
+       transform="translate(125.14567,98.520843)"
+       id="g52-8-09"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle50-9-7"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-275,-490)"
+         id="g51-2-99"
+         style="fill:#ffffff">
+        <path
+           d="m 590,890 c -130,0 -130,180 0,180 -60,-50 -60,-130 0,-180 z"
+           fill="#32cd32"
+           stroke="#228b22"
+           stroke-width="4"
+           id="path50-6-3"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="translate(650.78409,1696.8352)"
+     id="g55-6-2"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle53-4-43"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="scale(0.575)"
+       id="g54-9-71"
+       style="fill:#ffffff">
+      <use
+         href="#s-ster"
+         fill="#800080"
+         stroke="#6a0dad"
+         stroke-width="5"
+         stroke-linejoin="round"
+         id="use53-5-2"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="translate(1034.1534,1693.1122)"
+     id="g57-0-20"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle55-4-21"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="matrix(0.49150549,0,0,0.480564,-1.0631443,-1.2757732)"
+       id="g56-8-75"
+       style="fill:#ffffff">
+      <use
+         href="#s-klavertje4-harten"
+         fill="#228b22"
+         stroke="#006400"
+         stroke-width="4"
+         id="use55-7-1"
+         style="fill:#ffffff" />
+      <use
+         href="#s-klavertje4-aders"
+         stroke="#006400"
+         stroke-width="3"
+         stroke-linecap="round"
+         id="use56-1-7"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="translate(1613.504,1699.7203)"
+     id="g59-7-4"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle57-2-1"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="scale(0.575)"
+       id="g58-7-7"
+       style="fill:#ffffff">
+      <use
+         href="#s-kroon"
+         fill="#c0c0c0"
+         stroke="#808080"
+         stroke-width="4"
+         stroke-linejoin="round"
+         id="use57-2-11"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1218.8314,1691.9908)"
+     id="g51-1-7-1"
+     style="fill:#ffffff">
+    <circle
+       r="60"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle39-0-6-7"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="matrix(0.5,0,0,0.5,-275,-310)"
+       id="g50-6-7-0"
+       style="fill:#ffffff">
+      <g
+         stroke="#ff1493"
+         stroke-width="8"
+         id="g44-3-40"
+         style="fill:#ffffff">
+        <circle
+           cx="550"
+           cy="575"
+           r="35"
+           fill="#ff69b4"
+           id="circle40-1-6-8"
+           style="fill:#ffffff" />
+        <circle
+           cx="593"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle41-5-5-5"
+           style="fill:#ffffff" />
+        <circle
+           cx="576"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle42-9-6-16"
+           style="fill:#ffffff" />
+        <circle
+           cx="524"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle43-4-3-6"
+           style="fill:#ffffff" />
+        <circle
+           cx="507"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle44-9-9-21"
+           style="fill:#ffffff" />
+      </g>
+      <g
+         id="g49-0-4-96"
+         style="fill:#ffffff">
+        <circle
+           cx="550"
+           cy="575"
+           r="35"
+           fill="#ff69b4"
+           id="circle45-9-8-48"
+           style="fill:#ffffff" />
+        <circle
+           cx="593"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle46-1-0"
+           style="fill:#ffffff" />
+        <circle
+           cx="576"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle47-1-2-81"
+           style="fill:#ffffff" />
+        <circle
+           cx="524"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle48-7-9-0"
+           style="fill:#ffffff" />
+        <circle
+           cx="507"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle49-3-2"
+           style="fill:#ffffff" />
+      </g>
+      <circle
+         cx="550"
+         cy="620"
+         r="30"
+         fill="#9932cc"
+         stroke="#800080"
+         stroke-width="3"
+         id="circle50-7-9-2"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,137.1326,1762.8237)"
+     id="g33-5-56"
+     style="fill:#ffffff">
+    <!-- Symbool geplaatst in de lege ruimte linksboven van het vierkant -->
+    <g
+       transform="translate(100,100)"
+       id="g32-4-4"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle31-7-6"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-125,-130)"
+         id="g31-6-3"
+         style="fill:#ffffff">
+        <path
+           d="m 250,340 c 110,-70 110,-180 0,-120 -110,-60 -110,50 0,120 z"
+           fill="#dc143c"
+           stroke="#8b0000"
+           stroke-width="4"
+           id="path31-5-7"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,726.91918,1771.3288)"
+     id="g36-6-97"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g35-9-4"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle33-3-91"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-275,-130)"
+         id="g34-7-70"
+         style="fill:#ffffff">
+        <polygon
+           points="550,240 560,160 500,270 550,270 530,360 610,240 "
+           fill="#ffe600"
+           stroke="#daa520"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="polygon33-4-60"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,340.9058,1769.4075)"
+     id="g39-5-8"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g38-2-5"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle36-5-39"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.45182923,0,0,0.42800104,-114.1679,-259.97675)"
+         id="g37-4-41"
+         style="fill:#ffffff">
+        <path
+           d="m 170,660 c -40,0 -40,-80 10,-80 10,-70 120,-70 140,-10 50,-10 60,80 10,90 z"
+           fill="#87ceeb"
+           stroke="#1e90ff"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="path36-7-5"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1720.0242,1771.567)"
+     id="g50-3-41"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g49-1-55"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle47-4-4"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-125,-490)"
+         id="g48-9-9"
+         style="fill:#ffffff">
+        <polygon
+           points="192.1,995.5 170,980 192.1,964.5 180.7,940 207.6,937.6 210,910.7 234.5,922.1 250,900 265.5,922.1 290,910.7 292.4,937.6 319.3,940 307.9,964.5 330,980 307.9,995.5 319.3,1020 292.4,1022.4 290,1049.3 265.5,1037.9 250,1060 234.5,1037.9 210,1049.3 207.6,1022.4 180.7,1020 "
+           fill="#ff8c00"
+           stroke="#ff4500"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="polygon47-2-83"
+           style="fill:#ffffff" />
+        <circle
+           cx="250"
+           cy="980"
+           r="45"
+           fill="#ff8c00"
+           id="circle48-0-8"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1268.5088,1774.919)"
+     id="g53-6-5"
+     style="fill:#ffffff">
+    <g
+       transform="translate(125.14567,98.520843)"
+       id="g52-8-2"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle50-9-2"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-275,-490)"
+         id="g51-2-27"
+         style="fill:#ffffff">
+        <path
+           d="m 590,890 c -130,0 -130,180 0,180 -60,-50 -60,-130 0,-180 z"
+           fill="#32cd32"
+           stroke="#228b22"
+           stroke-width="4"
+           id="path50-6-0"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="translate(647.00488,1887.3294)"
+     id="g55-6-3"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle53-4-46"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="scale(0.575)"
+       id="g54-9-3"
+       style="fill:#ffffff">
+      <use
+         href="#s-ster"
+         fill="#800080"
+         stroke="#6a0dad"
+         stroke-width="5"
+         stroke-linejoin="round"
+         id="use53-5-63"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="translate(1030.3742,1883.6064)"
+     id="g57-0-3"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle55-4-44"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="matrix(0.49150549,0,0,0.480564,-1.0631443,-1.2757732)"
+       id="g56-8-3"
+       style="fill:#ffffff">
+      <use
+         href="#s-klavertje4-harten"
+         fill="#228b22"
+         stroke="#006400"
+         stroke-width="4"
+         id="use55-7-97"
+         style="fill:#ffffff" />
+      <use
+         href="#s-klavertje4-aders"
+         stroke="#006400"
+         stroke-width="3"
+         stroke-linecap="round"
+         id="use56-1-25"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="translate(1609.7248,1890.2145)"
+     id="g59-7-8"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle57-2-9"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="scale(0.575)"
+       id="g58-7-02"
+       style="fill:#ffffff">
+      <use
+         href="#s-kroon"
+         fill="#c0c0c0"
+         stroke="#808080"
+         stroke-width="4"
+         stroke-linejoin="round"
+         id="use57-2-4"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1215.0522,1882.485)"
+     id="g51-1-7-76"
+     style="fill:#ffffff">
+    <circle
+       r="60"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle39-0-6-5"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="matrix(0.5,0,0,0.5,-275,-310)"
+       id="g50-6-7-7"
+       style="fill:#ffffff">
+      <g
+         stroke="#ff1493"
+         stroke-width="8"
+         id="g44-3-13"
+         style="fill:#ffffff">
+        <circle
+           cx="550"
+           cy="575"
+           r="35"
+           fill="#ff69b4"
+           id="circle40-1-6-3"
+           style="fill:#ffffff" />
+        <circle
+           cx="593"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle41-5-5-3"
+           style="fill:#ffffff" />
+        <circle
+           cx="576"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle42-9-6-85"
+           style="fill:#ffffff" />
+        <circle
+           cx="524"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle43-4-3-10"
+           style="fill:#ffffff" />
+        <circle
+           cx="507"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle44-9-9-87"
+           style="fill:#ffffff" />
+      </g>
+      <g
+         id="g49-0-4-63"
+         style="fill:#ffffff">
+        <circle
+           cx="550"
+           cy="575"
+           r="35"
+           fill="#ff69b4"
+           id="circle45-9-8-50"
+           style="fill:#ffffff" />
+        <circle
+           cx="593"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle46-1-80"
+           style="fill:#ffffff" />
+        <circle
+           cx="576"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle47-1-2-4"
+           style="fill:#ffffff" />
+        <circle
+           cx="524"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle48-7-9-1"
+           style="fill:#ffffff" />
+        <circle
+           cx="507"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle49-3-1"
+           style="fill:#ffffff" />
+      </g>
+      <circle
+         cx="550"
+         cy="620"
+         r="30"
+         fill="#9932cc"
+         stroke="#800080"
+         stroke-width="3"
+         id="circle50-7-9-3"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,144.69296,1939.729)"
+     id="g33-5-34"
+     style="fill:#ffffff">
+    <!-- Symbool geplaatst in de lege ruimte linksboven van het vierkant -->
+    <g
+       transform="translate(100,100)"
+       id="g32-4-1"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle31-7-50"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-125,-130)"
+         id="g31-6-83"
+         style="fill:#ffffff">
+        <path
+           d="m 250,340 c 110,-70 110,-180 0,-120 -110,-60 -110,50 0,120 z"
+           fill="#dc143c"
+           stroke="#8b0000"
+           stroke-width="4"
+           id="path31-5-5"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,734.47954,1948.2341)"
+     id="g36-6-65"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g35-9-99"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle33-3-0"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-275,-130)"
+         id="g34-7-76"
+         style="fill:#ffffff">
+        <polygon
+           points="550,240 560,160 500,270 550,270 530,360 610,240 "
+           fill="#ffe600"
+           stroke="#daa520"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="polygon33-4-37"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,348.46616,1946.3128)"
+     id="g39-5-61"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g38-2-50"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle36-5-6"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.45182923,0,0,0.42800104,-114.1679,-259.97675)"
+         id="g37-4-5"
+         style="fill:#ffffff">
+        <path
+           d="m 170,660 c -40,0 -40,-80 10,-80 10,-70 120,-70 140,-10 50,-10 60,80 10,90 z"
+           fill="#87ceeb"
+           stroke="#1e90ff"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="path36-7-08"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1727.5845,1948.4723)"
+     id="g50-3-1"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g49-1-2"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle47-4-26"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-125,-490)"
+         id="g48-9-91"
+         style="fill:#ffffff">
+        <polygon
+           points="192.1,995.5 170,980 192.1,964.5 180.7,940 207.6,937.6 210,910.7 234.5,922.1 250,900 265.5,922.1 290,910.7 292.4,937.6 319.3,940 307.9,964.5 330,980 307.9,995.5 319.3,1020 292.4,1022.4 290,1049.3 265.5,1037.9 250,1060 234.5,1037.9 210,1049.3 207.6,1022.4 180.7,1020 "
+           fill="#ff8c00"
+           stroke="#ff4500"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="polygon47-2-0"
+           style="fill:#ffffff" />
+        <circle
+           cx="250"
+           cy="980"
+           r="45"
+           fill="#ff8c00"
+           id="circle48-0-4"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1276.0691,1951.8243)"
+     id="g53-6-2"
+     style="fill:#ffffff">
+    <g
+       transform="translate(125.14567,98.520843)"
+       id="g52-8-7"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle50-9-40"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-275,-490)"
+         id="g51-2-3"
+         style="fill:#ffffff">
+        <path
+           d="m 590,890 c -130,0 -130,180 0,180 -60,-50 -60,-130 0,-180 z"
+           fill="#32cd32"
+           stroke="#228b22"
+           stroke-width="4"
+           id="path50-6-28"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="translate(654.56524,2064.2347)"
+     id="g55-6-03"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle53-4-700"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="scale(0.575)"
+       id="g54-9-34"
+       style="fill:#ffffff">
+      <use
+         href="#s-ster"
+         fill="#800080"
+         stroke="#6a0dad"
+         stroke-width="5"
+         stroke-linejoin="round"
+         id="use53-5-92"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="translate(1037.9345,2060.5117)"
+     id="g57-0-7"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle55-4-42"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="matrix(0.49150549,0,0,0.480564,-1.0631443,-1.2757732)"
+       id="g56-8-5"
+       style="fill:#ffffff">
+      <use
+         href="#s-klavertje4-harten"
+         fill="#228b22"
+         stroke="#006400"
+         stroke-width="4"
+         id="use55-7-24"
+         style="fill:#ffffff" />
+      <use
+         href="#s-klavertje4-aders"
+         stroke="#006400"
+         stroke-width="3"
+         stroke-linecap="round"
+         id="use56-1-4"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="translate(1617.2851,2067.1198)"
+     id="g59-7-38"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle57-2-60"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="scale(0.575)"
+       id="g58-7-89"
+       style="fill:#ffffff">
+      <use
+         href="#s-kroon"
+         fill="#c0c0c0"
+         stroke="#808080"
+         stroke-width="4"
+         stroke-linejoin="round"
+         id="use57-2-2"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1222.6125,2059.3903)"
+     id="g51-1-7-23"
+     style="fill:#ffffff">
+    <circle
+       r="60"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle39-0-6-18"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="matrix(0.5,0,0,0.5,-275,-310)"
+       id="g50-6-7-3"
+       style="fill:#ffffff">
+      <g
+         stroke="#ff1493"
+         stroke-width="8"
+         id="g44-3-42"
+         style="fill:#ffffff">
+        <circle
+           cx="550"
+           cy="575"
+           r="35"
+           fill="#ff69b4"
+           id="circle40-1-6-24"
+           style="fill:#ffffff" />
+        <circle
+           cx="593"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle41-5-5-51"
+           style="fill:#ffffff" />
+        <circle
+           cx="576"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle42-9-6-7"
+           style="fill:#ffffff" />
+        <circle
+           cx="524"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle43-4-3-571"
+           style="fill:#ffffff" />
+        <circle
+           cx="507"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle44-9-9-6"
+           style="fill:#ffffff" />
+      </g>
+      <g
+         id="g49-0-4-98"
+         style="fill:#ffffff">
+        <circle
+           cx="550"
+           cy="575"
+           r="35"
+           fill="#ff69b4"
+           id="circle45-9-8-1"
+           style="fill:#ffffff" />
+        <circle
+           cx="593"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle46-1-3"
+           style="fill:#ffffff" />
+        <circle
+           cx="576"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle47-1-2-33"
+           style="fill:#ffffff" />
+        <circle
+           cx="524"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle48-7-9-79"
+           style="fill:#ffffff" />
+        <circle
+           cx="507"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle49-3-86"
+           style="fill:#ffffff" />
+      </g>
+      <circle
+         cx="550"
+         cy="620"
+         r="30"
+         fill="#9932cc"
+         stroke="#800080"
+         stroke-width="3"
+         id="circle50-7-9-70"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,145.45111,2118.1216)"
+     id="g33-5-48"
+     style="fill:#ffffff">
+    <!-- Symbool geplaatst in de lege ruimte linksboven van het vierkant -->
+    <g
+       transform="translate(100,100)"
+       id="g32-4-16"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle31-7-8"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-125,-130)"
+         id="g31-6-5"
+         style="fill:#ffffff">
+        <path
+           d="m 250,340 c 110,-70 110,-180 0,-120 -110,-60 -110,50 0,120 z"
+           fill="#dc143c"
+           stroke="#8b0000"
+           stroke-width="4"
+           id="path31-5-21"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,735.23769,2126.6267)"
+     id="g36-6-99"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g35-9-6"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle33-3-06"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-275,-130)"
+         id="g34-7-4"
+         style="fill:#ffffff">
+        <polygon
+           points="550,240 560,160 500,270 550,270 530,360 610,240 "
+           fill="#ffe600"
+           stroke="#daa520"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="polygon33-4-99"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,349.22431,2124.7054)"
+     id="g39-5-08"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g38-2-9"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle36-5-31"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.45182923,0,0,0.42800104,-114.1679,-259.97675)"
+         id="g37-4-48"
+         style="fill:#ffffff">
+        <path
+           d="m 170,660 c -40,0 -40,-80 10,-80 10,-70 120,-70 140,-10 50,-10 60,80 10,90 z"
+           fill="#87ceeb"
+           stroke="#1e90ff"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="path36-7-9"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1728.3427,2126.8649)"
+     id="g50-3-67"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g49-1-7"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle47-4-3"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-125,-490)"
+         id="g48-9-7"
+         style="fill:#ffffff">
+        <polygon
+           points="192.1,995.5 170,980 192.1,964.5 180.7,940 207.6,937.6 210,910.7 234.5,922.1 250,900 265.5,922.1 290,910.7 292.4,937.6 319.3,940 307.9,964.5 330,980 307.9,995.5 319.3,1020 292.4,1022.4 290,1049.3 265.5,1037.9 250,1060 234.5,1037.9 210,1049.3 207.6,1022.4 180.7,1020 "
+           fill="#ff8c00"
+           stroke="#ff4500"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="polygon47-2-1"
+           style="fill:#ffffff" />
+        <circle
+           cx="250"
+           cy="980"
+           r="45"
+           fill="#ff8c00"
+           id="circle48-0-2"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1276.8273,2130.2169)"
+     id="g53-6-21"
+     style="fill:#ffffff">
+    <g
+       transform="translate(125.14567,98.520843)"
+       id="g52-8-5"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle50-9-09"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-275,-490)"
+         id="g51-2-04"
+         style="fill:#ffffff">
+        <path
+           d="m 590,890 c -130,0 -130,180 0,180 -60,-50 -60,-130 0,-180 z"
+           fill="#32cd32"
+           stroke="#228b22"
+           stroke-width="4"
+           id="path50-6-01"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="translate(655.32339,2242.6273)"
+     id="g55-6-37"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle53-4-41"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="scale(0.575)"
+       id="g54-9-13"
+       style="fill:#ffffff">
+      <use
+         href="#s-ster"
+         fill="#800080"
+         stroke="#6a0dad"
+         stroke-width="5"
+         stroke-linejoin="round"
+         id="use53-5-0"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="translate(1038.6927,2238.9043)"
+     id="g57-0-32"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle55-4-1"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="matrix(0.49150549,0,0,0.480564,-1.0631443,-1.2757732)"
+       id="g56-8-756"
+       style="fill:#ffffff">
+      <use
+         href="#s-klavertje4-harten"
+         fill="#228b22"
+         stroke="#006400"
+         stroke-width="4"
+         id="use55-7-54"
+         style="fill:#ffffff" />
+      <use
+         href="#s-klavertje4-aders"
+         stroke="#006400"
+         stroke-width="3"
+         stroke-linecap="round"
+         id="use56-1-22"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="translate(1618.0433,2245.5124)"
+     id="g59-7-17"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle57-2-2"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="scale(0.575)"
+       id="g58-7-4"
+       style="fill:#ffffff">
+      <use
+         href="#s-kroon"
+         fill="#c0c0c0"
+         stroke="#808080"
+         stroke-width="4"
+         stroke-linejoin="round"
+         id="use57-2-16"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1223.3707,2237.7829)"
+     id="g51-1-7-5"
+     style="fill:#ffffff">
+    <circle
+       r="60"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle39-0-6-78"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="matrix(0.5,0,0,0.5,-275,-310)"
+       id="g50-6-7-59"
+       style="fill:#ffffff">
+      <g
+         stroke="#ff1493"
+         stroke-width="8"
+         id="g44-3-2"
+         style="fill:#ffffff">
+        <circle
+           cx="550"
+           cy="575"
+           r="35"
+           fill="#ff69b4"
+           id="circle40-1-6-7"
+           style="fill:#ffffff" />
+        <circle
+           cx="593"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle41-5-5-36"
+           style="fill:#ffffff" />
+        <circle
+           cx="576"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle42-9-6-47"
+           style="fill:#ffffff" />
+        <circle
+           cx="524"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle43-4-3-9"
+           style="fill:#ffffff" />
+        <circle
+           cx="507"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle44-9-9-7"
+           style="fill:#ffffff" />
+      </g>
+      <g
+         id="g49-0-4-2"
+         style="fill:#ffffff">
+        <circle
+           cx="550"
+           cy="575"
+           r="35"
+           fill="#ff69b4"
+           id="circle45-9-8-2"
+           style="fill:#ffffff" />
+        <circle
+           cx="593"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle46-1-16"
+           style="fill:#ffffff" />
+        <circle
+           cx="576"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle47-1-2-30"
+           style="fill:#ffffff" />
+        <circle
+           cx="524"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle48-7-9-2"
+           style="fill:#ffffff" />
+        <circle
+           cx="507"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle49-3-15"
+           style="fill:#ffffff" />
+      </g>
+      <circle
+         cx="550"
+         cy="620"
+         r="30"
+         fill="#9932cc"
+         stroke="#800080"
+         stroke-width="3"
+         id="circle50-7-9-65"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,148.47603,2290.8511)"
+     id="g33-5-346"
+     style="fill:#ffffff">
+    <!-- Symbool geplaatst in de lege ruimte linksboven van het vierkant -->
+    <g
+       transform="translate(100,100)"
+       id="g32-4-60"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle31-7-25"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-125,-130)"
+         id="g31-6-89"
+         style="fill:#ffffff">
+        <path
+           d="m 250,340 c 110,-70 110,-180 0,-120 -110,-60 -110,50 0,120 z"
+           fill="#dc143c"
+           stroke="#8b0000"
+           stroke-width="4"
+           id="path31-5-50"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,738.26261,2299.3562)"
+     id="g36-6-60"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g35-9-83"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle33-3-7"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-275,-130)"
+         id="g34-7-82"
+         style="fill:#ffffff">
+        <polygon
+           points="550,240 560,160 500,270 550,270 530,360 610,240 "
+           fill="#ffe600"
+           stroke="#daa520"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="polygon33-4-10"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,352.24923,2297.4349)"
+     id="g39-5-5"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g38-2-85"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle36-5-50"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.45182923,0,0,0.42800104,-114.1679,-259.97675)"
+         id="g37-4-73"
+         style="fill:#ffffff">
+        <path
+           d="m 170,660 c -40,0 -40,-80 10,-80 10,-70 120,-70 140,-10 50,-10 60,80 10,90 z"
+           fill="#87ceeb"
+           stroke="#1e90ff"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="path36-7-82"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1731.3677,2299.5944)"
+     id="g50-3-3"
+     style="fill:#ffffff">
+    <g
+       transform="translate(100,100)"
+       id="g49-1-07"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle47-4-7"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-125,-490)"
+         id="g48-9-76"
+         style="fill:#ffffff">
+        <polygon
+           points="192.1,995.5 170,980 192.1,964.5 180.7,940 207.6,937.6 210,910.7 234.5,922.1 250,900 265.5,922.1 290,910.7 292.4,937.6 319.3,940 307.9,964.5 330,980 307.9,995.5 319.3,1020 292.4,1022.4 290,1049.3 265.5,1037.9 250,1060 234.5,1037.9 210,1049.3 207.6,1022.4 180.7,1020 "
+           fill="#ff8c00"
+           stroke="#ff4500"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="polygon47-2-91"
+           style="fill:#ffffff" />
+        <circle
+           cx="250"
+           cy="980"
+           r="45"
+           fill="#ff8c00"
+           id="circle48-0-19"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1279.8523,2302.9464)"
+     id="g53-6-08"
+     style="fill:#ffffff">
+    <g
+       transform="translate(125.14567,98.520843)"
+       id="g52-8-9"
+       style="fill:#ffffff">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle50-9-8"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-275,-490)"
+         id="g51-2-80"
+         style="fill:#ffffff">
+        <path
+           d="m 590,890 c -130,0 -130,180 0,180 -60,-50 -60,-130 0,-180 z"
+           fill="#32cd32"
+           stroke="#228b22"
+           stroke-width="4"
+           id="path50-6-37"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="translate(658.34831,2415.3568)"
+     id="g55-6-06"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle53-4-9"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="scale(0.575)"
+       id="g54-9-2"
+       style="fill:#ffffff">
+      <use
+         href="#s-ster"
+         fill="#800080"
+         stroke="#6a0dad"
+         stroke-width="5"
+         stroke-linejoin="round"
+         id="use53-5-1"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="translate(1041.7176,2411.6338)"
+     id="g57-0-77"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle55-4-97"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="matrix(0.49150549,0,0,0.480564,-1.0631443,-1.2757732)"
+       id="g56-8-62"
+       style="fill:#ffffff">
+      <use
+         href="#s-klavertje4-harten"
+         fill="#228b22"
+         stroke="#006400"
+         stroke-width="4"
+         id="use55-7-71"
+         style="fill:#ffffff" />
+      <use
+         href="#s-klavertje4-aders"
+         stroke="#006400"
+         stroke-width="3"
+         stroke-linecap="round"
+         id="use56-1-5"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="translate(1621.0683,2418.2419)"
+     id="g59-7-88"
+     style="fill:#ffffff">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle57-2-4"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="scale(0.575)"
+       id="g58-7-56"
+       style="fill:#ffffff">
+      <use
+         href="#s-kroon"
+         fill="#c0c0c0"
+         stroke="#808080"
+         stroke-width="4"
+         stroke-linejoin="round"
+         id="use57-2-5"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1226.3957,2410.5124)"
+     id="g51-1-7-6"
+     style="fill:#ffffff">
+    <circle
+       r="60"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle39-0-6-84"
+       cx="0"
+       cy="0"
+       style="fill:#ffffff" />
+    <g
+       transform="matrix(0.5,0,0,0.5,-275,-310)"
+       id="g50-6-7-88"
+       style="fill:#ffffff">
+      <g
+         stroke="#ff1493"
+         stroke-width="8"
+         id="g44-3-3"
+         style="fill:#ffffff">
+        <circle
+           cx="550"
+           cy="575"
+           r="35"
+           fill="#ff69b4"
+           id="circle40-1-6-87"
+           style="fill:#ffffff" />
+        <circle
+           cx="593"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle41-5-5-52"
+           style="fill:#ffffff" />
+        <circle
+           cx="576"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle42-9-6-45"
+           style="fill:#ffffff" />
+        <circle
+           cx="524"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle43-4-3-05"
+           style="fill:#ffffff" />
+        <circle
+           cx="507"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle44-9-9-73"
+           style="fill:#ffffff" />
+      </g>
+      <g
+         id="g49-0-4-27"
+         style="fill:#ffffff">
+        <circle
+           cx="550"
+           cy="575"
+           r="35"
+           fill="#ff69b4"
+           id="circle45-9-8-21"
+           style="fill:#ffffff" />
+        <circle
+           cx="593"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle46-1-34"
+           style="fill:#ffffff" />
+        <circle
+           cx="576"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle47-1-2-94"
+           style="fill:#ffffff" />
+        <circle
+           cx="524"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle48-7-9-19"
+           style="fill:#ffffff" />
+        <circle
+           cx="507"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle49-3-57"
+           style="fill:#ffffff" />
+      </g>
+      <circle
+         cx="550"
+         cy="620"
+         r="30"
+         fill="#9932cc"
+         stroke="#800080"
+         stroke-width="3"
+         id="circle50-7-9-41"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1214.8485,226.89468)"
+     id="g51-1">
+    <circle
+       r="60"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle39-0"
+       cx="0"
+       cy="0" />
+    <g
+       transform="matrix(0.5,0,0,0.5,-275,-310)"
+       id="g50-6">
+      <g
+         stroke="#ff1493"
+         stroke-width="8"
+         id="g44">
+        <circle
+           cx="550"
+           cy="575"
+           r="35"
+           fill="#ff69b4"
+           id="circle40-1" />
+        <circle
+           cx="593"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle41-5" />
+        <circle
+           cx="576"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle42-9" />
+        <circle
+           cx="524"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle43-4" />
+        <circle
+           cx="507"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle44-9" />
+      </g>
+      <g
+         id="g49-0">
+        <circle
+           cx="550"
+           cy="575"
+           r="35"
+           fill="#ff69b4"
+           id="circle45-9" />
+        <circle
+           cx="593"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle46" />
+        <circle
+           cx="576"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle47-1" />
+        <circle
+           cx="524"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle48-7" />
+        <circle
+           cx="507"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle49" />
+      </g>
+      <circle
+         cx="550"
+         cy="620"
+         r="30"
+         fill="#9932cc"
+         stroke="#800080"
+         stroke-width="3"
+         id="circle50-7" />
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,147.35039,2470.7717)"
+     id="g33-1">
+    <!-- Symbool geplaatst in de lege ruimte linksboven van het vierkant -->
+    <g
+       transform="translate(100,100)"
+       id="g32-6">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle31-2"
+         cx="0"
+         cy="0" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-125,-130)"
+         id="g31-0">
+        <path
+           d="m 250,340 c 110,-70 110,-180 0,-120 -110,-60 -110,50 0,120 z"
+           fill="#dc143c"
+           stroke="#8b0000"
+           stroke-width="4"
+           id="path31-2" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,737.13696,2479.2768)"
+     id="g36-2">
+    <g
+       transform="translate(100,100)"
+       id="g35-97">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle33-4"
+         cx="0"
+         cy="0" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-275,-130)"
+         id="g34-3">
+        <polygon
+           points="610,240 550,240 560,160 500,270 550,270 530,360 "
+           fill="#ffe600"
+           stroke="#daa520"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="polygon33-5" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,351.12359,2477.3555)"
+     id="g39-6">
+    <g
+       transform="translate(100,100)"
+       id="g38-1">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle36-4"
+         cx="0"
+         cy="0" />
+      <g
+         transform="matrix(0.45182923,0,0,0.42800104,-114.1679,-259.97675)"
+         id="g37-0">
+        <path
+           d="m 170,660 c -40,0 -40,-80 10,-80 10,-70 120,-70 140,-10 50,-10 60,80 10,90 z"
+           fill="#87ceeb"
+           stroke="#1e90ff"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="path36-3" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1730.2419,2479.515)"
+     id="g50-1">
+    <g
+       transform="translate(100,100)"
+       id="g49-2">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle47-7"
+         cx="0"
+         cy="0" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-125,-490)"
+         id="g48-7">
+        <polygon
+           points="290,1049.3 265.5,1037.9 250,1060 234.5,1037.9 210,1049.3 207.6,1022.4 180.7,1020 192.1,995.5 170,980 192.1,964.5 180.7,940 207.6,937.6 210,910.7 234.5,922.1 250,900 265.5,922.1 290,910.7 292.4,937.6 319.3,940 307.9,964.5 330,980 307.9,995.5 319.3,1020 292.4,1022.4 "
+           fill="#ff8c00"
+           stroke="#ff4500"
+           stroke-width="5"
+           stroke-linejoin="round"
+           id="polygon47-9" />
+        <circle
+           cx="250"
+           cy="980"
+           r="45"
+           fill="#ff8c00"
+           id="circle48-8" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1278.7265,2482.867)"
+     id="g53-1">
+    <g
+       transform="translate(125.14567,98.520843)"
+       id="g52-0">
+      <circle
+         r="60"
+         fill="none"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-dasharray="5, 5"
+         id="circle50-76"
+         cx="0"
+         cy="0" />
+      <g
+         transform="matrix(0.5,0,0,0.5,-275,-490)"
+         id="g51-0">
+        <path
+           d="m 590,890 c -130,0 -130,180 0,180 -60,-50 -60,-130 0,-180 z"
+           fill="#32cd32"
+           stroke="#228b22"
+           stroke-width="4"
+           id="path50-1" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="translate(657.22263,2595.2774)"
+     id="g55-0">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle53-2"
+       cx="0"
+       cy="0" />
+    <g
+       transform="scale(0.575)"
+       id="g54-5">
+      <use
+         href="#s-ster"
+         fill="#800080"
+         stroke="#6a0dad"
+         stroke-width="5"
+         stroke-linejoin="round"
+         id="use53-1" />
+    </g>
+  </g>
+  <g
+     transform="translate(1040.5919,2591.5544)"
+     id="g57-9">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle55-7"
+       cx="0"
+       cy="0" />
+    <g
+       transform="matrix(0.49150549,0,0,0.480564,-1.0631443,-1.2757732)"
+       id="g56-1">
+      <use
+         href="#s-klavertje4-harten"
+         fill="#228b22"
+         stroke="#006400"
+         stroke-width="4"
+         id="use55-3" />
+      <use
+         href="#s-klavertje4-aders"
+         stroke="#006400"
+         stroke-width="3"
+         stroke-linecap="round"
+         id="use56-12" />
+    </g>
+  </g>
+  <g
+     transform="translate(1619.9425,2598.1625)"
+     id="g59-0">
+    <circle
+       r="69"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle57-6"
+       cx="0"
+       cy="0" />
+    <g
+       transform="scale(0.575)"
+       id="g58-8">
+      <use
+         href="#s-kroon"
+         fill="#c0c0c0"
+         stroke="#808080"
+         stroke-width="4"
+         stroke-linejoin="round"
+         id="use57-7" />
+    </g>
+  </g>
+  <g
+     transform="matrix(1.15,0,0,1.15,1227.1618,2593.8864)"
+     id="g51-1-4">
+    <circle
+       r="60"
+       fill="none"
+       stroke="#999999"
+       stroke-width="3"
+       stroke-dasharray="5, 5"
+       id="circle39-0-9"
+       cx="0"
+       cy="0" />
+    <g
+       transform="matrix(0.5,0,0,0.5,-275,-310)"
+       id="g50-6-2">
+      <g
+         stroke="#ff1493"
+         stroke-width="8"
+         id="g44-4">
+        <circle
+           cx="550"
+           cy="575"
+           r="35"
+           fill="#ff69b4"
+           id="circle40-1-4" />
+        <circle
+           cx="593"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle41-5-59" />
+        <circle
+           cx="576"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle42-9-1" />
+        <circle
+           cx="524"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle43-4-2" />
+        <circle
+           cx="507"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle44-9-8" />
+      </g>
+      <g
+         id="g49-0-9">
+        <circle
+           cx="550"
+           cy="575"
+           r="35"
+           fill="#ff69b4"
+           id="circle45-9-6" />
+        <circle
+           cx="593"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle46-0" />
+        <circle
+           cx="576"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle47-1-6" />
+        <circle
+           cx="524"
+           cy="656"
+           r="35"
+           fill="#ff69b4"
+           id="circle48-7-4" />
+        <circle
+           cx="507"
+           cy="606"
+           r="35"
+           fill="#ff69b4"
+           id="circle49-0" />
+      </g>
+      <circle
+         cx="550"
+         cy="620"
+         r="30"
+         fill="#9932cc"
+         stroke="#800080"
+         stroke-width="3"
+         id="circle50-7-94" />
+    </g>
+  </g>
 </svg>
