@@ -42,20 +42,14 @@
     <polygon id="s-ster" points="0,-95 23,-36 90,-29 38,10 57,86 0,42 -57,86 -38,10 -90,-29 -23,-36"/>
 
     <!-- KLAVERTJE 4 (nieuw) - centered at origin, 4 ronde klaverbladeren -->
-    <path id="s-klaverblad" d="M 0 0 C -65 -15 -70 -85 0 -95 C 70 -85 65 -15 0 0 Z"/>
-    <path id="s-klaverblad-ader" d="M 0 0 Q 0 -50 0 -88" fill="none"/>
+    <path id="s-klaverblad" d="M 0 0 L -48 -48 A 29 29 0 1 1 0 -58 A 29 29 0 1 1 48 -48 Z"/>
     <g id="s-klavertje4-harten">
       <use href="#s-klaverblad"/>
       <use href="#s-klaverblad" transform="rotate(90)"/>
       <use href="#s-klaverblad" transform="rotate(180)"/>
       <use href="#s-klaverblad" transform="rotate(270)"/>
-      <circle cx="0" cy="0" r="10"/>
     </g>
     <g id="s-klavertje4-aders">
-      <use href="#s-klaverblad-ader"/>
-      <use href="#s-klaverblad-ader" transform="rotate(90)"/>
-      <use href="#s-klaverblad-ader" transform="rotate(180)"/>
-      <use href="#s-klaverblad-ader" transform="rotate(270)"/>
     </g>
 
     <!-- KROON (nieuw) - centered at origin -->
@@ -139,14 +133,14 @@
     <text x="0" y="78" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#800080">Paars (Ster)</text>
   </g>
 
-  <!-- 8. KLAVERTJE 4 (Goud) -->
+  <!-- 8. KLAVERTJE 4 (Groen) -->
   <g transform="translate(676, 320)">
     <use href="#knipcirkel"/>
     <g transform="scale(0.5)">
-      <use href="#s-klavertje4-harten" fill="#FFD700" stroke="#B8860B" stroke-width="4"/>
-      <use href="#s-klavertje4-aders" stroke="#B8860B" stroke-width="3" stroke-linecap="round"/>
+      <use href="#s-klavertje4-harten" fill="#228B22" stroke="#006400" stroke-width="4"/>
+      <use href="#s-klavertje4-aders" stroke="#006400" stroke-width="3" stroke-linecap="round"/>
     </g>
-    <text x="0" y="78" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#B8860B">Goud (Klavertje 4)</text>
+    <text x="0" y="78" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#006400">Groen (Klavertje 4)</text>
   </g>
 
   <!-- 9. KROON (Zilver) -->

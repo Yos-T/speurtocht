@@ -67,20 +67,14 @@
 
     <!-- NIEUWE SYMBOLEN (voor extra kinderen) -->
     <polygon id="s-ster" points="0,-95 23,-36 90,-29 38,10 57,86 0,42 -57,86 -38,10 -90,-29 -23,-36"/>
-    <path id="s-klaverblad" d="M 0 0 C -65 -15 -70 -85 0 -95 C 70 -85 65 -15 0 0 Z"/>
-    <path id="s-klaverblad-ader" d="M 0 0 Q 0 -50 0 -88" fill="none"/>
+    <path id="s-klaverblad" d="M 0 0 L -48 -48 A 29 29 0 1 1 0 -58 A 29 29 0 1 1 48 -48 Z"/>
     <g id="s-klavertje4-harten">
       <use href="#s-klaverblad"/>
       <use href="#s-klaverblad" transform="rotate(90)"/>
       <use href="#s-klaverblad" transform="rotate(180)"/>
       <use href="#s-klaverblad" transform="rotate(270)"/>
-      <circle cx="0" cy="0" r="10"/>
     </g>
     <g id="s-klavertje4-aders">
-      <use href="#s-klaverblad-ader"/>
-      <use href="#s-klaverblad-ader" transform="rotate(90)"/>
-      <use href="#s-klaverblad-ader" transform="rotate(180)"/>
-      <use href="#s-klaverblad-ader" transform="rotate(270)"/>
     </g>
     <polygon id="s-kroon" points="-75,40 -58,-30 -30,8 0,-55 30,8 58,-30 75,40"/>
   </defs>
@@ -174,12 +168,12 @@
     </g>
   </g>
 
-  <!-- 8. Klavertje 4 (Goud) -->
+  <!-- 8. Klavertje 4 (Groen) -->
   <g transform="translate(1050, 1065)">
     <circle r="69" fill="none" stroke="#999" stroke-width="3" stroke-dasharray="5,5"/>
     <g transform="scale(0.575)">
-      <use href="#s-klavertje4-harten" fill="#FFD700" stroke="#B8860B" stroke-width="4"/>
-      <use href="#s-klavertje4-aders" stroke="#B8860B" stroke-width="3" stroke-linecap="round"/>
+      <use href="#s-klavertje4-harten" fill="#228B22" stroke="#006400" stroke-width="4"/>
+      <use href="#s-klavertje4-aders" stroke="#006400" stroke-width="3" stroke-linecap="round"/>
     </g>
   </g>
 
