@@ -4,13 +4,17 @@
 *(Geef elk kind een wit vlindertje en een nep-klokje)*
 
 **VOORLEZEN:**
-"Lang geleden was het Vlinderpark het mooiste stukje natuur van onze wijk. Overal vlogen prachtige vlinders met schitterende kleuren en magische krachten.
+Waar wij nu wonen was vroeger het Vlinderpark. Het mooiste stukje natuur van Leidschendam. Overal vlogen prachtige vlinders met schitterende kleuren en magische krachten.
 Maar toen kwamen de grote bouwmachines om de nieuwe huizen te bouwen! Er waaide een enorme, dikke wolk van bouwstof over het park. Alle kleuren van de vlinders raakten bedolven onder een laagje grijs stof… En ook hun magische krachten raakten kwijt.
 Alleen negen jonge witte vlinders kunnen het park nog redden.
 Die negen vlinders… zijn jullie.
 
-Omdat de stofwolk zo dik is, kunnen we de weg niet goed meer zien. Maar gelukkig zitten de kleuren veilig verstopt in onzichtbare Tijd-Bloemen! Om deze bloemen te vinden, hebben jullie deze magische vlinder-klokjes gekregen.
-Straks vinden we gekleurde bloemen in de bomen of bij de bouwhekken met een tijd erop. Als je je klokje precies op die tijd zet, wijst de vlinder op je klok je de weg door het stof! Zijn jullie klaar om jullie kleuren terug te verdienen?"
+We moeten jullie kleuren en krachten gaan zoeken. 
+Straks vinden we onderweg gekleurde bloemen met een tijd erop. Als je je klokje precies op die tijd zet, wijst de vlinder op je klok je de weg!
+Zoek de bloemen. 
+Stel je klokje in op de tijd die op de bloem staat.
+Draai het klokje zodat de grote wijzer wijst naar waar we vandaan kwamen.
+De kleine wijzer wijst nu waar we heen moeten.
 
 ---
 
